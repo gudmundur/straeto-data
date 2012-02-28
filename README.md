@@ -4,7 +4,7 @@ This repository contains data files for (hopefully) all publicly available and u
 
 ## Which data is available
 
-- [List of all stops](stops/allStops.csv)
+- [List of all stops](https://github.com/gudmundur/straeto-data/blob/master/stops/allStops.csv)
 - Stops in order per direction, for all routes available in the [real-time feed][realtimefeed].
 
 ## Route stops
