@@ -31,7 +31,7 @@ The remaining data is under a [CC BY-SA 3.0][cc-by-sa] license.
 
 * [Strætó bs.][straeto]
 * [Björgvin Ragnarsson](https://github.com/nifgraup).
-* [Árni Hermann Reynisson](https://github.com/arnihr).
+* [Árni Hermann Reynisson](https://github.com/arnihermann).
 * [Kristján Bjarni Guðmundsson](https://market.android.com/details?id=is.taktu_straeto).
 
 [straeto]: http://www.straeto.is
