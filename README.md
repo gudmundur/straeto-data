@@ -36,3 +36,4 @@ The remaining data is under a [CC BY-SA 3.0][cc-by-sa] license.
 
 [straeto]: http://www.straeto.is
 [realtimefeed]: http://www.straeto.is/rauntimakort/
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0/
