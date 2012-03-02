@@ -23,7 +23,7 @@ If you would like to contribute data that you have, either fork this repository 
 
 The `allStops.csv` file was provided by Strætó bs. and the license of which is unclear, but could be published online.
 
-The remaining data is under a [CC BY-SA 3.0][cc-by-sa] license.
+The remaining data is dual licenced under [CC BY-SA 3.0][cc-by-sa] and [ODbl 1.0][odbl].
 
 ![CC BY-SA 3.0](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)
 
@@ -31,9 +31,11 @@ The remaining data is under a [CC BY-SA 3.0][cc-by-sa] license.
 
 * [Strætó bs.][straeto]
 * [Björgvin Ragnarsson](https://github.com/nifgraup).
-* [Árni Hermann Reynisson](https://github.com/arnihr).
+* [Árni Hermann Reynisson](https://github.com/arnihermann).
 * [Kristján Bjarni Guðmundsson](https://market.android.com/details?id=is.taktu_straeto).
 
 [straeto]: http://www.straeto.is
 [realtimefeed]: http://www.straeto.is/rauntimakort/
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/3.0/
+[odbl]: http://opendatacommons.org/licenses/odbl/summary/
+
