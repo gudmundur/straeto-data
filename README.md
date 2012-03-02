@@ -15,6 +15,10 @@ In the `stops` folder, the files are named as such
 
 For example route 1 going from Hlemmur towards Klukkuvellir is named `1-A-Klukkuvellir.csv`. A few routes have either branches or take different routes at certain times a day, thus have a variant, such as `12-A-Breiðhöfði_Ártún-1.csv`.
 
+## Routes
+
+The routes data is included in the `routes` folder. The format should be fairly self-explanatory but one should be aware that the data is drafted up in Google Earth so it is far from perfect.
+
 ## Contributing
 
 If you would like to contribute data that you have, either fork this repository and send a pull request or submit an issue with whatever you have.
@@ -33,6 +37,7 @@ The remaining data is dual licenced under [CC BY-SA 3.0][cc-by-sa] and [ODbl 1.0
 * [Björgvin Ragnarsson](https://github.com/nifgraup).
 * [Árni Hermann Reynisson](https://github.com/arnihermann).
 * [Kristján Bjarni Guðmundsson](https://market.android.com/details?id=is.taktu_straeto).
+* [Hrafn Eiríksson](https://market.android.com/details?id=com.aldasoftware.bus).
 
 [straeto]: http://www.straeto.is
 [realtimefeed]: http://www.straeto.is/rauntimakort/
