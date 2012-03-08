@@ -6,6 +6,7 @@ This repository contains data files for (hopefully) all publicly available and u
 
 - [List of all stops](https://github.com/gudmundur/straeto-data/blob/master/stops/allStops.csv)
 - Stops in order per direction, for all routes available in the [real-time feed][realtimefeed].
+- [Rough route paths](https://github.com/gudmundur/straeto-data/blob/master/routes/routes.json)
 
 ## Route stops
 
@@ -15,7 +16,7 @@ In the `stops` folder, the files are named as such
 
 For example route 1 going from Hlemmur towards Klukkuvellir is named `1-A-Klukkuvellir.csv`. A few routes have either branches or take different routes at certain times a day, thus have a variant, such as `12-A-Breiðhöfði_Ártún-1.csv`.
 
-## Routes
+## Route paths
 
 The routes data is included in the `routes` folder. The format should be fairly self-explanatory but one should be aware that the data is drafted up in Google Earth so it is far from perfect.
 
