@@ -34,7 +34,7 @@ For example the first trip of route 1 going to Klukkuvellir on a Monday is found
 ### Caveat
 
 * These timetables are estimates.
-* Some trips are missing.
+* A few routes are missing: 51, 52, 57, 71, 72 and 73.
 
 ## Contributing
 
