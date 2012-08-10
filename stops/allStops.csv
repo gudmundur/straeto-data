@@ -742,7 +742,7 @@ stopId,long name,short name,latitude,longitude
 10000893,Hlíðarvegur / Vogatunga,Vogatunga,64.10780799999654,-21.90134600000407
 10000894,Hlíðarvegur / Hrauntunga,Hrauntunga,64.10875200000237,-21.89008800000864
 10000895,Hlíðarhjalli / Brekkuhjalli,Brekkuhjalli,64.10758699999734,-21.879615999991547
-90000609,Hótel Loftleiðir,Hótel Loftleiðir,64.13028300000207,-21.93005700000576
+90000609,Nauthólsvegur,Nauthólsvegur,64.13028300000207,-21.93005700000576
 90000090,Háteigsvegur / Skipholt,Skipholt,64.1372940000028,-21.898215999996957
 10000901,Smáralind,Smáralind,64.100015,-21.889215000001144
 10000903,Smáralind,Smáralind,64.09998900000119,-21.889836999996742
@@ -875,7 +875,7 @@ stopId,long name,short name,latitude,longitude
 90000761,Jónsgeisli / Reynisvatnsvegur,Reynisvatnsvegur,64.12969199999628,-21.751789999990056
 10000880,Arnarnesvegur / Salavegur,Salavegur,64.08936600000374,-21.84524800000335
 10000834,Arnarnesvegur / Salavegur,Salavegur,64.089592999998,-21.845248000007196
-90000009,Hótel Loftleiðir,Hótel Loftleiðir,64.13084100000059,-21.929603999994896
+90000009,Nauthólsvegur,Nauthólsvegur,64.13084100000059,-21.929603999994896
 90009980,Snúningur Fellaskóli,Snúningur Fellaskóli,64.101963000002,-21.824429999994603
 14001624,Skútahraun / Slökkvistöð,Slökkvistöð,64.08164599999887,-21.936966999990673
 16040615,Reykjavegur,Reykjavegur,64.15573799999693,-21.663995000000533
@@ -887,3 +887,5 @@ stopId,long name,short name,latitude,longitude
 90000763,Lambhagavegur / Mímisbrunnur,Mímisbrunnur,64.13402900000399,-21.750167000002335
 90000715,Flugvallarvegur,Flugvallarvegur,64.13203600000047,-21.924376000003125
 90000714,Flugvallarvegur,Flugvallarvegur,64.13200500000056,-21.923238000005956
+99900006,Reykjanesbraut / Vífilsstaðavegur,Vífilsstaðavegur,64.0834745973317,-21.8917179107666
+99900007,Reykjanesbraut / Vífilsstaðavegur,Vífilsstaðavegur,64.0834745973317,-21.8965673446655
