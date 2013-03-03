@@ -1,5 +1,24 @@
 {
-    "name": "straeto-data",
-    "version": "0.2.0",
-    "author": "Guðmundur Bjarni Ólafsson <gudmundur.bjarni@gmail.com>"
+  "name": "straeto-data",
+  "version": "0.2.0",
+  "description": "Data files for the busses in and around Reykjavik, Iceland",
+  "author": "Guðmundur Bjarni Ólafsson <gudmundur.bjarni@gmail.com>",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gudmundur/straeto-data.git"
+  },
+
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+
+  "devDependencies": {
+    "coffee-script": "1.4.0",
+    "csv": "0.2.6",
+    "moment": "1.7.2",
+    "underscore": "1.4.3",
+    "mocha": "1.8.1",
+    "chai": "1.4.2"
+  }
 }
