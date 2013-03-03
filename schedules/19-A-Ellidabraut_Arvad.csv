@@ -1,0 +1,11 @@
+,,,,,90000333,90000009,90000297,90000298,90000292,90000295,90000030,90000031,90000032,90000033,90000034,90000042,90000038,90000396,90000303,90000413,90000376,90000377,90000378,90000755,90000756,90000757,90000731,90000732,90000401,90000402,90000304,90000403,90000404,90000405,90000406,90000407,90000457,90000129,90000397,90000375,90000391,90000321,90000322,90000335,90000336,90000338,90000323,90000352,90000634
+From (time),To (time),Every (minutes),Days,Schedule Type,Nauthóll - HR,Nauthólsvegur,BSÍ,Landspítalinn,Snorrabraut,Hlemmur,Þjóðskjalasafnið,Gamla sjónvarpshúsið,Nordica,Laugardalshöll,Orkuhúsið,Glæsibær,Fen,Gerði,Rafstöðvarvegur,Breiðhöfði / Ártún,Straumur / Nesti,Strengur / Sílakvísl,Strengur / Laxakvísl,Bitruháls,Grjótháls / Bitruháls,Hálsabraut / Grjótháls,Hálsabraut,Bæjarbraut,Árbæjarskóli,Rofabær / Brekkubær,Fylkisvegur,Hraunsás,Selásbraut / Næfurás,Selásbraut / Reykás,Selásbraut / Sauðás,Selásbraut / Vallarás,Selásskóli,Selásbraut / Þverás,Norðlingabraut / Árvað,Norðlingabraut / Bjallavað,Norðlingabraut / Ferjuvað,Norðlingabraut / Helluvað,Bugða / Kambavað,Bugða / Lindarvað,Bugða / Móvað,Bugða / Reiðvað,Elliðabraut / Bugða,Elliðabraut / Sandavað,Elliðabraut / Árvað
+6:59:00,,,weekdays,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,1,0,0,1,0
+6:51:00,18:51:00,30,weekdays,A,0,1,3,1,2,2,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0
+19:36:00,23:36:00,30,weekdays,A,0,1,3,1,2,2,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0
+7:44:00,,,saturdays,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,1,0,0,1,0
+7:45:00,,,saturdays,A,,,,,,0,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0
+8:06:00,23:36:00,30,saturdays,A,0,1,3,1,2,2,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0
+11:44:00,,,sundays,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,1,0,0,1,0
+11:45:00,,,sundays,A,,,,,,0,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0
+12:06:00,23:36:00,30,sundays,A,0,1,3,1,2,2,1,1,1,1,1,1,1,2,2,2,1,1,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,2,0,1,0,1,0,1,0,0,1,0

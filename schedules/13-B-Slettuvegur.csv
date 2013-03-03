@@ -1,0 +1,11 @@
+,,,,,90000277,90000278,90000279,90000280,90000281,90000179,90000180,90000057,90000004,90000001,90000002,90000027,90000028,90000295,90000119,90000259,90000282,90000283,90000284,90000285,90000286,90000287,90000083,90000231,90000232
+From (time),To (time),Every (minutes),Days,Schedule Type,Öldugrandi,Seilugrandi,Keilugrandi,Boðagrandi,JL húsið,Hofsvallagata / Hringbraut,Hofsvallagata / Hávallagata,Ráðhúsið,Menntaskólinn í Reykjavík / MR,Stjórnarráðið,Þjóðleikhúsið,Frakkastígur,Barónsstígur,Hlemmur,Rauðarárstígur,Kjarvalsstaðir,Flókagata,Langahlíð,Langahlíð / Mávahlíð,Menntaskólinn við Hamrahlíð / MH,Hamrahlíð,Verzló,RÚV,Borgarspítali,Sléttuvegur
+6:38:00,9:08:00,15,weekdays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+9:38:00,13:38:00,30,weekdays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+13:53:00,18:08:00,15,weekdays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+18:38:00,23:08:00,30,weekdays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+23:38:00,,,weekdays,A,0,0,1,1,1,,,,,,,,,,,,,,,,,,,,
+7:38:00,23:08:00,30,saturdays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+23:38:00,,,saturdays,A,0,0,1,1,1,,,,,,,,,,,,,,,,,,,,
+11:38:00,23:08:00,30,sundays,A,0,0,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+23:38:00,,,sundays,A,0,0,1,1,1,,,,,,,,,,,,,,,,,,,,

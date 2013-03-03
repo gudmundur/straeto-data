@@ -1,0 +1,6 @@
+,,,,,90000075,90000139,90000140,90000380,90000381,90000382,90000444,90000445,90000446,90000141,90000073,90000074,90000075,90000075,90000142,90000234,90000235,90000236,90000237,90000238,90000239,90000240,90000046,90000047,90000048,90000049,90000050,90000295
+From (time),To (time),Every (minutes),Days,Schedule Type,Mjódd,Dvergabakki,Eyjabakki,Vesturberg / Suðurhólar,Vesturberg,Vesturberg / Norðurfell,Fellaskóli,Norðurfell / Austurberg,Gerðuberg,Hólabrekkuskóli,Eyjabakki,Dvergabakki,Mjódd,Mjódd,Sogavegur / Bústaðavegur,Sogavegur / Tunguvegur,Sogavegur / Borgargerði,Sogavegur / Háagerði,Sogavegur / Grundargerði,Sogavegur / Akurgerði,Grensás,Grensásvegur / Skeifan,Fjölskyldu og húsdýragarðurinn,Laugardalshöll,Nordica,Hátún,Fíladelfía,Hlemmur
+6:36:00,19:06:00,30,weekdays,A,0,1,1,2,1,1,0,1,1,1,2,1,2,1,3,0,1,1,1,1,2,1,1,1,1,1,0,2
+19:36:00,20:06:00,30,weekdays,A,0,1,1,2,1,1,0,1,1,1,2,1,2,,,,,,,,,,,,,,,
+7:36:00,10:06:00,30,saturdays,A,0,1,1,2,1,1,0,1,1,1,2,1,2,1,3,0,1,1,1,1,2,1,1,1,1,1,0,2
+19:36:00,20:06:00,30,saturdays,A,0,1,1,2,1,1,0,1,1,1,2,1,2,,,,,,,,,,,,,,,

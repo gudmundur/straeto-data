@@ -1,0 +1,12 @@
+,,,,,90000075,90000068,10000955,10000956,10000860,10000830,10000817,10000950,10000957,10000952,10000923,10000925,10000834,10000886,10000877,10000907,10000908,10000909,10000910,10000874,10000872,10000871,10000868,10000867,10000865,10000863,10000837,10000838,10000926,10000828,10000858,10000821,10000822,10000802
+From (time),To (time),Every (minutes),Days,Schedule Type,Mjódd,Stekkjarbakki,Vatnsendahvarf / Ögurhvarf,Vatnsendahvarf / Víkurhvarf,Vatnsendavegur / Álfkonuhvarf,Vatnsendavegur / Akurhvarf,Vatnsendavegur / Kóravegur,Þingmannaleið / Vallakór,Boðaþing,Dalaþing,Hörðuvallaskóli,Rjúpnavegur,Arnarnesvegur / Salavegur,Versalir,Salavegur / Ársalir,Hvammsvegur,Hlíðardalsvegur / Iðalind,Hlíðardalsvegur / Krossalind,Lindarvegur,Smáralind,Smárar,Smáraskóli,Dalsmári / Lindasmári,Dalsmári / Lautasmári,Smáratorg,Dalvegur,Hlíðarhjalli / Fífuhjalli,Hjallakirkja,Skálaheiði,Álfhólsvegur / Túnbrekka,Digranesvegur / Brattabrekka,Menntaskólinn í Kópavogi / MK,Kópavogsskóli,Hamraborg
+6:41:00,,,weekdays,A,,,,,,,,,,,,,,0,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+6:43:00,,,weekdays,A,,,,,0,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+6:51:00,8:51:00,15,weekdays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+9:21:00,13:51:00,30,weekdays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+14:06:00,18:21:00,15,weekdays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+18:51:00,23:21:00,30,weekdays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+7:28:00,,,saturdays,A,,,,,0,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+7:51:00,23:51:00,30,saturdays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+11:28:00,,,sundays,A,,,,,0,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1
+11:51:00,23:51:00,30,sundays,A,0,1,1,1,4,1,1,1,1,1,1,1,3,2,1,2,1,1,0,1,1,2,1,0,1,1,1,1,2,1,1,1,1,1

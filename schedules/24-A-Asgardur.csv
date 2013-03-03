@@ -1,0 +1,11 @@
+,,,,,90000366,90000500,90000661,90000737,90000534,90000741,90000491,90000492,90000493,90000494,90000495,90000496,90000497,90000498,90000499,90000262,90000334,90000558,90000342,90000413,90000198,90000744,90000379,90000075,90000068,10000836,10000862,10000864,10000874,10000903,10000904,10000827,13001225,13001226,13001224,13001212,13001208,13001218,13001219,13001300
+From (time),To (time),Every (minutes),Days,Schedule Type,Spöngin,Borgavegur,Borgavegur / Gullengi,Víkurvegur / Borgavegur,Víkurvegur / Keldnaholt,Gagnvegur / Völundarhús,Gagnvegur / Brekkuhús,Gagnvegur / Vallarhús,Gagnvegur / Dalhús,Fjallkonuvegur / Gagnvegur,Fjallkonuvegur / Reykjafold,Fjallkonuvegur / Jöklafold,Fjallkonuvegur / Frostafold,Fjallkonuvegur / Hverafold,Funafold,Gullinbrú,Stórhöfði / Höfðabakki,Stórhöfði / Tengivegur,Stórhöfði / Breiðhöfði,Breiðhöfði / Ártún,Straumur / Birtingakvísl,Straumur / Nethylur,Árbæjarsafn,Mjódd,Stekkjarbakki,Dalvegur / Hlíðarhjalli,Dalvegur,Smáratorg,Smáralind,Smáralind,Smárahvammsvegur / Hlíðarsmári,Arnarnesvegur / Bæjarbraut,Bæjarbraut / Maltakur,Fjölbrautaskólinn í Garðabæ / FG,Karlabraut / Búðir,Karlabraut / Heiðarlundur,Karlabraut / Reynilundur,Vídalínskirkja,Garðatorg,Ásgarður
+6:41:00,6:56:00,15,weekdays,A,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,1,1,2,1,1,1,2,1,1,0,0,1,1,2
+6:50:00,8:50:00,15,weekdays,A,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,2,5,1,2,1,1,2,1,1,1,2,1,1,0,0,1,1,2
+9:20:00,13:50:00,30,weekdays,A,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,2,5,1,2,1,1,2,1,1,1,2,1,1,0,0,1,1,2
+14:05:00,17:50:00,15,weekdays,A,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,1,1,0,1,2,5,1,2,1,1,2,1,1,1,2,1,1,0,0,1,1,2
+18:20:00,22:50:00,30,weekdays,B,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,0,1,0,1,2,4,1,2,1,1,2,1,0,1,2,1,1,0,0,1,0,1
+7:39:00,,,saturdays,B,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,1,1,2,1,0,1,2,1,1,0,0,1,0,1
+7:50:00,22:50:00,30,saturdays,B,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,0,1,0,1,2,4,1,2,1,1,2,1,0,1,2,1,1,0,0,1,0,1
+11:39:00,,,sundays,B,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,1,1,2,1,0,1,2,1,1,0,0,1,0,1
+11:50:00,22:50:00,30,sundays,B,0,1,1,1,1,0,0,1,0,1,0,1,1,0,1,1,1,0,0,1,0,1,2,4,1,2,1,1,2,1,0,1,2,1,1,0,0,1,0,1

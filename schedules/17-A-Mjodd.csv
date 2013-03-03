@@ -1,0 +1,6 @@
+,,,,,90000295,90000030,90000031,90000032,90000033,90000034,90000224,90000225,90000161,90000150,90000228,90000229,90000230,90000143,90000137,90000138,90000075,90000075,90000139,90000140,90000380,90000381,90000382,90000444,90000445,90000446,90000141,90000073,90000074,90000075
+From (time),To (time),Every (minutes),Days,Schedule Type,Hlemmur,Þjóðskjalasafnið,Gamla sjónvarpshúsið,Nordica,Laugardalshöll,Orkuhúsið,Grensásvegur / Ármúli,Grensás,Sogavegur / Akurgerði,Sogavegur / Grundargerði,Sogavegur / Háagerði,Sogavegur / Borgargerði,Sogavegur / Tunguvegur,Sogavegur / Bústaðavegur,Víkin,Blesugróf,Mjódd,Mjódd,Dvergabakki,Eyjabakki,Vesturberg / Suðurhólar,Vesturberg,Vesturberg / Norðurfell,Fellaskóli,Norðurfell / Austurberg,Gerðuberg,Hólabrekkuskóli,Eyjabakki,Dvergabakki,Mjódd
+6:36:00,,,weekdays,A,,,,,,,,,,,,,,,,,,0,1,1,2,1,1,0,1,1,1,2,1,2
+6:46:00,19:46:00,30,weekdays,A,0,1,1,0,1,1,1,2,2,0,1,0,1,1,2,1,4,1,1,1,2,1,1,0,1,1,1,2,1,2
+7:36:00,,,saturdays,A,,,,,,,,,,,,,,,,,,0,1,1,2,1,1,0,1,1,1,2,1,2
+7:46:00,19:46:00,30,saturdays,A,0,1,1,0,1,1,1,2,2,0,1,0,1,1,2,1,4,1,1,1,2,1,1,0,1,1,1,2,1,2

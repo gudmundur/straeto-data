@@ -1,0 +1,6 @@
+,,,,,14001500,14001529,14001530,14001531,14001504,14001505,14001506,14001535,14001536,14001512,14001513,14001514,14001641,14001515,13001584,13001585,14001516,14001517,14001518,14001519,14001588,14001589,14001590,14001591,14001592,14001593,14001594,14001595,14001596,14001520,14001597,14001500
+From (time),To (time),Every (minutes),Days,Schedule Type,Fjörður,Vesturgata / Pakkhúsið,Norðurbakki,Vesturgata,Hjallabraut / Hraunbrún,Hjallabraut / Skátaheimilið,Hjallabraut / Skjólvangur,Hjallabraut / Víðivangur,Hjallabraut / Miðvangur,Hjallabraut / Laufvangur,Flatahraun / Sléttahraun,Iðnskólinn,Flatahraun / Álfaskeið,Kaplakriki,Flatahraun / Álftanesvegur,Góa,Hamraberg / Víðiberg,Hamraberg / Lyngberg,Hamraberg / Hnotuberg,Hamraberg / Einiberg,Hlíðarberg / 10-11,Hlíðarberg / Birkihlíð,Hlíðarberg / Engjahlíð,Hlíðarberg / Sóleyjarhlíð,Hlíðarberg / Móberg,Hlíðarberg / Lindarberg,Hlíðarberg / Klettaberg,Setbergsskóli,Hlíðarberg / Hamraberg,Lækjarskóli,Lækjargata,Fjörður
+13:22:00,19:52:00,15,weekdays,A,0,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,2
+20:22:00,23:22:00,30,weekdays,A,0,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,2
+7:52:00,23:22:00,30,saturdays,A,0,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,2
+11:52:00,23:22:00,30,sundays,A,0,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,1,1,1,2

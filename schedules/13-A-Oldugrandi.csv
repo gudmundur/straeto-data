@@ -1,0 +1,8 @@
+,,,,,90000232,90000146,90000084,90000268,90000192,90000270,90000271,90000272,90000273,90000263,90000093,90000295,90000052,90000053,90000054,90000055,90000056,90000167,90000168,90000096,90000097,90000098,90000276,11000100,11000101,90000277
+From (time),To (time),Every (minutes),Days,Schedule Type,Sléttuvegur,Borgarspítali,RÚV,Borgarleikhús,Hamrahlíð,Menntaskólinn við Hamrahlíð / MH,Langahlíð / Mávahlíð,Langahlíð,Flókagata,Kjarvalsstaðir,Rauðarárstígur,Hlemmur,Barónsstígur,Frakkastígur,Þjóðleikhúsið,Lækjartorg,Ráðhúsið,Hofsvallagata / Hávallagata,Hofsvallagata / Hringbraut,Meistaravellir / Grandavegur,Meistaravellir / Flyðrugrandi,KR,Kaplaskjól,Grænamýri,Nesvegur / Skerjabraut,Öldugrandi
+6:41:00,9:11:00,15,weekdays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2
+9:41:00,13:41:00,30,weekdays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2
+13:56:00,18:11:00,15,weekdays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2
+18:41:00,23:11:00,30,weekdays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2
+7:41:00,23:11:00,30,saturdays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2
+11:41:00,23:11:00,30,sundays,A,0,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,0,1,1,1,1,2

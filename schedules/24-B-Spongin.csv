@@ -1,0 +1,11 @@
+,,,,,13001300,13001334,13001335,13001209,13001210,13001211,13001222,13001223,13001207,13001362,10000900,10000901,10000875,10000865,10000863,10000835,90000145,90000075,90000075,90000348,90000260,90000261,90000421,90000306,90000559,90000308,90000504,90000356,90000357,90000358,90000359,90000360,90000361,90000362,90000363,90000364,90000740,90000439,90000440,90000754,90000367,90000366
+From (time),To (time),Every (minutes),Days,Schedule Type,Ásgarður,Garðatorg,Vídalínskirkja,Karlabraut / Espilundur,Karlabraut / Furulundur,Karlabraut / Búðir,Fjölbrautaskólinn í Garðabæ / FG,Bæjarbraut / Blómahæð,Arnarnesvegur / Bæjarbraut,Arnarnesvegur / Nónhæð,Smárahvammsvegur / Hlíðarsmári,Smáralind,Smáralind,Smáratorg,Dalvegur,Dalvegur / Hlíðarhjalli,Stekkjarbakki,Mjódd,Mjódd,Árbæjarsafn,Straumur / Nethylur,Straumur / Birtingakvísl,Breiðhöfði / Ártún,Stórhöfði / Breiðhöfði,Stórhöfði / Tengivegur,Stórhöfði / Höfðabakki,Gullinbrú,Funafold,Fjallkonuvegur / Hverafold,Fjallkonuvegur / Frostafold,Fjallkonuvegur / Logafold,Fjallkonuvegur / Reykjafold,Fjallkonuvegur / Gagnvegur,Gagnvegur / Dalhús,Gagnvegur / Vallarhús,Gagnvegur / Brekkuhús,Gagnvegur / Völundarhús,Víkurvegur / Keldnaholt,Borgavegur / Víkurvegur,Borgavegur / Gullengi,Borgavegur,Spöngin
+6:51:00,,,weekdays,A,,,,,,,,,,,,,,,,,,,0,5,2,1,1,1,0,1,0,2,0,1,1,0,1,1,0,1,0,1,1,0,1,1
+6:46:00,9:01:00,15,weekdays,A,0,1,1,1,0,1,1,1,1,1,1,1,1,2,1,1,2,1,2,5,2,1,1,1,0,1,0,2,0,1,1,0,1,1,0,1,0,1,1,0,1,1
+9:31:00,14:01:00,30,weekdays,A,0,1,1,1,0,1,1,1,1,1,1,1,1,2,1,1,2,1,2,5,2,1,1,1,0,1,0,2,0,1,1,0,1,1,0,1,0,1,1,0,1,1
+14:16:00,18:01:00,15,weekdays,A,0,1,1,1,0,1,1,1,1,1,1,1,1,2,1,1,2,1,2,5,2,1,1,1,0,1,0,2,0,1,1,0,1,1,0,1,0,1,1,0,1,1
+18:33:00,22:33:00,30,weekdays,B,0,1,1,1,0,0,1,0,1,1,1,1,1,2,1,1,2,1,2,4,1,1,1,1,0,1,0,2,0,1,0,0,1,1,0,1,0,1,1,0,1,1
+7:51:00,,,saturdays,B,,,,,,,,,,,,,,,,,,,0,4,1,1,1,1,0,1,0,2,0,1,0,0,1,1,0,1,0,1,1,0,1,1
+8:03:00,22:33:00,30,saturdays,B,0,1,1,1,0,0,1,0,1,1,1,1,1,2,1,1,2,1,2,4,1,1,1,1,0,1,0,2,0,1,0,0,1,1,0,1,0,1,1,0,1,1
+11:51:00,,,sundays,B,,,,,,,,,,,,,,,,,,,0,4,1,1,1,1,0,1,0,2,0,1,0,0,1,1,0,1,0,1,1,0,1,1
+12:03:00,22:33:00,30,sundays,B,0,1,1,1,0,0,1,0,1,1,1,1,1,2,1,1,2,1,2,4,1,1,1,1,0,1,0,2,0,1,0,0,1,1,0,1,0,1,1,0,1,1

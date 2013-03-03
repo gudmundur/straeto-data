@@ -1,0 +1,11 @@
+,,,,,16040612,16040620,90000774,90000443,90000471,90000518,90000737,90000534,90000771,90000647,90000601,90000753,90000730,90000766,90000767,90000527,90000549,90000546,90000547,90000548,90000550,90000542,90000294,90000645,90000019,90000019,90000414,90000422,90000556,90000423,90000080,90000081,90000324,90000325,90000326,90000292,90000295
+From (time),To (time),Every (minutes),Days,Schedule Type,Háholt,Bjarkarholt,Korpúlfsstaðavegur / Barðastaðir,Korpúlfsstaðavegur / Brúnastaðir,Korpúlfsstaðir,Egilshöll,Víkurvegur / Borgavegur,Víkurvegur / Keldnaholt,Vesturlandsvegur / Úlfarsá,Korputorg,Bauhaus,Mímisbrunnur / Úlfarsbraut,Reynisvatnsvegur,Reynisvatnsvegur / Katrínarlind,Reynisvatn,Biskupsgata,Gvendargeisli / Sæmundarsel,Gvendargeisli / Þórðarsveigur,Kristnibraut / Prestastígur,Ingunnarskóli,Kristnibraut / Maríubaugur,Þúsöld,Þúsöld / Húsasmiðjan,Vesturlandsvegur / Viðarhöfði,Ártún,Ártún,Gerði,Heiðargerði,Grensásvegur / Skálagerði,Álmgerði,Furugerði,Borgarspítalinn,Leiti,Veðurstofan,Perlan,Snorrabraut,Hlemmur
+6:32:00,7:02:00,30,weekdays,A,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,2,2,0,0,1,1,1,1,1,2,2
+7:32:00,8:32:00,30,weekdays,B,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,2,2,0,0,1,1,2,2,2,2,3
+9:02:00,14:32:00,30,weekdays,A,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,2,2,0,0,1,1,1,1,1,2,2
+15:02:00,17:32:00,30,weekdays,B,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,2,2,0,0,1,1,2,2,2,2,3
+18:02:00,23:02:00,30,weekdays,C,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,1,2,0,0,1,1,1,1,1,1,2
+7:32:00,11:02:00,30,saturdays,C,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,1,2,0,0,1,1,1,1,1,1,2
+11:32:00,17:32:00,30,saturdays,C,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,1,2,0,0,1,1,1,1,1,1,2
+18:02:00,23:02:00,30,saturdays,A,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,2,2,0,0,1,1,1,1,1,2,2
+11:32:00,23:02:00,30,sundays,C,0,1,3,1,1,1,1,1,1,2,1,2,3,1,1,0,1,0,1,1,1,1,1,4,2,2,1,2,0,0,1,1,1,1,1,1,2

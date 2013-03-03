@@ -1,0 +1,5 @@
+,,,,,10000802,10000804,10000805,10000806,10000807,10000808,10000809,10000810,10000906,10000812,10000948,10000842,10000844,10000846,10000849,10000850,10000852,10000927,10000928,10000946,10000917,10000811,10000895,10000894,10000892,10000893,10000802
+From (time),To (time),Every (minutes),Days,Schedule Type,Hamraborg,Kópavogsbraut / Sunnuhlíð,Kópavogsbraut / Urðarbraut,Kársnesskóli,Kópavogsbraut / Kópavör,Kópavogsbraut / Borgarholtsbraut,Kársnesbraut / Vesturvör,Kársnesbraut / Litlavör,Kársnesbraut / Huldubraut,Kársnesbraut / Sæbólsbraut,Lundur,Nýbýlavegur / Laufbrekka,Nýbýlavegur / Hjallabrekka,Nýbýlavegur / Lundarbrekka,Nýbýlavegur / Þverbrekka,Nýbýlavegur / Álfabrekka,Nýbýlavegur / Efstihjalli,Engihjalli,Hjallaskóli,Digranesskóli,Skálaheiði,Hlíðarhjalli / Bakkahjalli,Hlíðarhjalli / Brekkuhjalli,Hlíðarvegur / Hrauntunga,Hlíðarvegur / Grænatunga,Hlíðarvegur / Vogatunga,Hamraborg
+6:37:00,23:07:00,30,weekdays,A,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,2
+7:37:00,23:07:00,30,saturdays,A,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,2
+12:07:00,23:07:00,30,sundays,A,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1,2

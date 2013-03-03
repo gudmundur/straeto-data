@@ -1,0 +1,7 @@
+,,,,,90000295,90000212,90000165,90000630,90000253,90000051,90000419,90000459,90000628,90000159,90000191,90000193,90000018,90000018,90000398,90000399,90000400,90000401,90000402,90000728,90000148,90000404,90000405,90000406,90000407,90000457,90000129,90000397,90000375,90000391,90000321,90000322,90000335,90000336,90000338,90000323,90000352,90000634
+From (time),To (time),Every (minutes),Days,Schedule Type,Hlemmur,Höfðatorg,Hótel Cabin,Sæbraut / Kirkjusandur,Héðinsgata,Klettagarðar / Skarfagarðar,Klettagarðar / Kænugarðar,Sundagarðar,Hrafnista,Sæbraut / Sægarðar,Sund,Vogar,Ártún,Ártún,Hraunbær,Rofabær / Hraunbær,Rofabær / Hábær,Árbæjarskóli,Rofabær / Brekkubær,Rofabær / Norðurás,Hádegismóar,Selásbraut / Næfurás,Selásbraut / Reykás,Selásbraut / Sauðás,Selásbraut / Vallarás,Selásskóli,Selásbraut / Þverás,Norðlingabraut / Árvað,Norðlingabraut / Bjallavað,Norðlingabraut / Ferjuvað,Norðlingabraut / Helluvað,Bugða / Kambavað,Bugða / Lindarvað,Bugða / Móvað,Bugða / Reiðvað,Elliðabraut / Bugða,Elliðabraut / Sandavað,Elliðabraut / Árvað
+6:46:00,,,weekdays,A,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,1,0,1,0,0,1,0
+6:42:00,12:12:00,30,weekdays,A,0,1,1,1,2,2,1,1,2,1,1,1,4,1,2,1,0,1,0,1,1,2,1,1,1,1,1,2,0,1,0,1,0,1,0,0,1,0
+12:42:00,18:42:00,30,weekdays,B,0,1,1,1,2,2,1,1,2,1,1,1,4,1,2,1,0,1,0,1,,1,1,1,1,1,1,2,0,1,0,1,0,1,0,0,1,0
+10:42:00,19:12:00,30,saturdays,A,0,1,1,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:42:00,19:12:00,30,sundays,A,0,1,1,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+,,,,,14001500,14001561,14001626,14001542,14001521,14001522,14001662,14001523,14001524,14001564,14001608,14001525,14001609,14001612,14001547,14001605,14001610,14001611,14001549,14001550,14001562,14001558,14001567,14001568,14001569,14001570,14001650,14001651,14001545,14001546,14001500
+From (time),To (time),Every (minutes),Days,Schedule Type,Fjörður,Lækjargata,Grænakinn,Flensborg,Selvogsgata,Öldutúnsskóli,Kirkjugarður Hafnarfjarðar,Kaldársselsvegur / Dalsás,Brekkuás,Kaldárselsvegur,Vörðutorg,Goðatorg,Ásbraut / Álftaás,Haukahús,Ásvallalaug,Haukahús,Ástjörn,Suðurhvammur,Strandgata / Suðurbæjarlaug,Suðurbraut / Smárabarð,Suðurbraut / Melabraut,Suðurbraut / Hvaleyrarbraut,Háholt / Akurholt,Háholt / Bæjarholt,Háholt / Hörgsholt,Miklaholt,Hvaleyrarbraut / Brekkutröð,Hvaleyrarbraut / Stapagata,Strandgata / Flensborgartorg,Strandgata / Fjörukráin,Fjörður
+13:22:00,19:52:00,15,weekdays,A,0,2,0,1,0,1,0,1,2,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+20:22:00,23:22:00,30,weekdays,A,0,2,0,1,0,1,0,1,2,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+7:52:00,23:22:00,30,saturdays,A,0,2,0,1,0,1,0,1,2,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1
+11:52:00,23:22:00,30,sundays,A,0,2,0,1,0,1,0,1,2,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1
