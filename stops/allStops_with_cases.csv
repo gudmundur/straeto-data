@@ -1,0 +1,991 @@
+stopId,long_name,short_name,latitude,longitude,accusative_case,genitive_case
+10000802,Hamraborg,Hamraborg,64.111089,-21.908351,Hamraborg,Hamraborgar
+10000804,Kópavogsbraut / Sunnuhlíð,Sunnuhlíð,64.109082,-21.909596,Sunnuhlíð,Sunnuhlíðar
+10000805,Kópavogsbraut / Urðarbraut,Urðarbraut,64.109198,-21.917279,Urðarbraut,Urðarbrautar
+10000806,Kársnesskóli,Kársnesskóli,64.109192,-21.924001,Kársnesskóla,Kársnesskóla
+10000807,Kópavogsbraut / Kópavör,Kópavör,64.109299,-21.930667,Kópavör,Kópavarar
+10000808,Kópavogsbraut / Borgarholtsbraut,Borgarholtsbraut,64.111244,-21.935374,Borgarholtsbraut,Borgarholtsbrautar
+10000809,Kársnesbraut / Vesturvör,Vesturvör,64.113604,-21.929884,Vesturvör,Vesturvarar
+10000810,Kársnesbraut / Litlavör,Litlavör,64.113682,-21.923298,Litluvör,Litluvarar
+10000811,Hlíðarhjalli / Bakkahjalli,Bakkahjalli,64.107374,-21.87409,Bakkahjalla,Bakkahjalla
+10000812,Kársnesbraut / Sæbólsbraut,Sæbólsbraut,64.114526,-21.903531,Sæbólsbraut,Sæbólsbrautar
+10000814,Skeljabrekka,Skeljabrekka,64.114422,-21.899866,Skeljabrekku,Skeljabrekku
+10000815,Smiðjuvegur / Gul gata,Gul gata,64.112718,-21.849335,Gulri götu,Gulrar götu
+10000817,Vatnsendavegur / Kóravegur,Kóravegur,64.085384,-21.819622,Kóravegi,Kóravegar
+10000818,Smiðjuvegur / Gul gata,Gul gata,64.11267,-21.849234,Gulri götu,Gulrar götu
+10000819,Álfhólsvegur / Túnbrekka,Túnbrekka,64.111758,-21.884427,Túnbrekku,Túnbrekku
+10000820,Menntaskólinn í Kópavogi / MK,MK,64.110166,-21.89586,MK,MK
+10000821,Menntaskólinn í Kópavogi / MK,MK,64.110274,-21.895669,MK,MK
+10000822,Kópavogsskóli,Kópavogsskóli,64.110379,-21.900322,Kópavogsskóla,Kópavogsskóla
+10000823,Vatnsendavegur / Kóravegur,Kóravegur,64.08531,-21.818631,Kóravegi,Kóravegar
+10000824,Vatnsendavegur / Elliðahvammsvegur,Elliðahvammsvegur,64.08708,-21.812594,Elliðahvammsvegi,Elliðahvammsvegar
+10000825,Fífuhvammsvegur / Arnarsmári,Arnarsmári,64.099645,-21.904513,Arnarsmára,Arnarsmára
+10000826,Fífuhvammsvegur / Arnarsmári,Arnarsmári,64.099711,-21.903924,Arnarsmára,Arnarsmára
+10000827,Arnarnesvegur / Bæjarbraut,Bæjarbraut,64.09869,-21.905116,Bæjarbraut,Bæjarbrautar
+10000828,Álfhólsvegur / Túnbrekka,Túnbrekka,64.11183,-21.884425,Túnbrekku,Túnbrekku
+10000830,Vatnsendavegur / Akurhvarf,Akurhvarf,64.087088,-21.812927,Akurhvarfi,Akurhvarfs
+10000831,Lindir,Lindir,64.09858,-21.870174,Lindum,Linda
+10000832,Smiðjuvegur / Grá gata,Grá gata,64.110889,-21.85211,Grárri götu,Grárrar götu
+10000834,Arnarnesvegur / Salavegur,Salavegur,64.089593,-21.845248,Salavegi,Salavegar
+10000835,Dalvegur / Hlíðarhjalli,Hlíðarhjalli,64.106455,-21.855698,Hlíðarhjalla,Hlíðarhjalla
+10000836,Dalvegur / Hlíðarhjalli,Hlíðarhjalli,64.106595,-21.855849,Hlíðarhjalla,Hlíðarhjalla
+10000837,Hlíðarhjalli / Fífuhjalli,Fífuhjalli,64.107757,-21.860165,Fífuhjalla,Fífuhjalla
+10000838,Hjallakirkja,Hjallakirkja,64.109553,-21.866266,Hjallakirkju,Hjallakirkju
+10000839,Smiðjuvegur / Grá gata,Grá gata,64.110901,-21.852318,Grárri götu,Grárrar götu
+10000842,Nýbýlavegur / Laufbrekka,Laufbrekka,64.114069,-21.887445,Laufbrekku,Laufbrekku
+10000843,Nýbýlavegur / Birkigrund,Birkigrund,64.114292,-21.88796,Birkigrund,Birkigrundar
+10000844,Nýbýlavegur / Hjallabrekka,Hjallabrekka,64.11393,-21.87987,Hjallabrekku,Hjallabrekku
+10000845,Nýbýlavegur / Hjallabrekka,Hjallabrekka,64.11407,-21.880538,Hjallabrekku,Hjallabrekku
+10000846,Nýbýlavegur / Lundarbrekka,Lundarbrekka,64.113678,-21.872197,Lundarbrekku,Lundarbrekku
+10000847,Nýbýlavegur / Lundarbrekka,Lundarbrekka,64.113842,-21.872486,Lundarbrekku,Lundarbrekku
+10000848,Nýbýlavegur / Ástún,Ástún,64.113735,-21.868226,Ástúni,Ástúns
+10000849,Nýbýlavegur / Þverbrekka,Þverbrekka,64.113461,-21.866342,Þverbrekku,Þverbrekku
+10000850,Nýbýlavegur / Álfabrekka,Álfabrekka,64.112944,-21.861297,Álfabrekku,Álfabrekku
+10000851,Nýbýlavegur / Álfabrekka,Álfabrekka,64.113209,-21.86117,Álfabrekku,Álfabrekku
+10000852,Nýbýlavegur / Efstihjalli,Efstihjalli,64.110757,-21.856081,Efstahjalla,Efstahjalla
+10000853,Nýbýlavegur / Skemmuvegur,Skemmuvegur,64.110813,-21.855532,Skemmuvegi,Skemmuvegar
+10000854,Sunnuhlíð,Sunnuhlíð,64.107074,-21.905615,Sunnuhlíð,Sunnuhlíðar
+10000856,Hlíðarhvammur,Hlíðarhvammur,64.106197,-21.903764,Hlíðarhvammi,Hlíðarhvamms
+10000857,Digranesvegur / Brattabrekka,Brattabrekka,64.11,-21.888501,Bröttubrekku,Brötubrekku
+10000858,Digranesvegur / Brattabrekka,Brattabrekka,64.110158,-21.888489,Bröttubrekku,Bröttubrekku
+10000859,Kópavogsskóli,Kópavogsskóli,64.11026603,-21.89968884,Kópavogsskóla,Kópavogsskóla
+10000860,Vatnsendavegur / Álfkonuhvarf,Álfkonuhvarf,64.090683,-21.808082,Álfkonuhvarfi,Álfkonuhvarfs
+10000862,Dalvegur,Dalvegur,64.105858,-21.872156,Dalvegi,Dalvegar
+10000863,Dalvegur,Dalvegur,64.105812,-21.871792,Dalvegi,Dalvegar
+10000864,Smáratorg,Smáratorg,64.10439673,-21.87969569,Smáratorgi,Smáratorgs
+10000865,Smáratorg,Smáratorg,64.104185,-21.879448,Smáratorgi,Smáratorgs
+10000866,Dalsmári / Lækjasmári,Lækjasmári,64.104574,-21.883901,Lækjasmára,Lækjasmára
+10000867,Dalsmári / Lautasmári,Lautasmári,64.104493,-21.883934,Lautasmára,Lautasmára
+10000868,Dalsmári / Lindasmári,Lindasmári,64.104551,-21.889135,Lindasmára,Lindasmára
+10000869,Dalsmári / Lindasmári,Lindasmári,64.104647,-21.88916,Lindasmára,Lindasmára
+10000870,Smáraskóli,Smáraskóli,64.102855,-21.894009,Smáraskóla,Smáraskóla
+10000871,Smáraskóli,Smáraskóli,64.102915,-21.893707,Smáraskóla,Smáraskóla
+10000872,Smárar,Smárar,64.102285,-21.892145,Smárum,Smára
+10000873,Smárar,Smárar,64.10207,-21.892387,Smárum,Smára
+10000874,Smáralind,Smáralind,64.102703,-21.886314,Smáralind,Smáralindar
+10000875,Smáralind,Smáralind,64.102525,-21.885823,Smáralind,Smáralindar
+10000876,Lindir,Lindir,64.098921,-21.871548,Lindum,Linda
+10000877,Salavegur / Ársalir,Ársalir,64.094351,-21.857936,Ársölum,Ársala
+10000880,Arnarnesvegur / Salavegur,Salavegur,64.089366,-21.845248,Salavegi,Salavegar
+10000882,Lindarvegur,Lindarvegur,64.100825,-21.871459,Lindarvegi,Lindarvegar
+10000883,Hlíðardalsvegur / Kópalind,Kópalind,64.102109,-21.864024,Kópalind,Kópalindar
+10000884,Hlíðardalsvegur / Iðalind,Iðalind,64.099474,-21.862353,Iðalind,Iðalindar
+10000885,Hvammsvegur,Hvammsvegur,64.096328,-21.858788,Hvammsvegi,Hvammsvegar
+10000886,Versalir,Versalir,64.091554,-21.858181,Versölum,Versala
+10000887,Salavegur / Fensalir,Fensalir,64.093776,-21.853171,Fensölum,Fensala
+10000889,Salavegur / Kórsalir,Kórsalir,64.09212,-21.846356,Kórsölum,Kórsala
+10000891,Salavegur / Ársalir,Ársalir,64.09449,-21.857976,Ársölum,Ársala
+10000892,Hlíðarvegur / Grænatunga,Grænatunga,64.108302,-21.895524,Grænutungu,Grænutungu
+10000893,Hlíðarvegur / Vogatunga,Vogatunga,64.107808,-21.901346,Vogatungu,Vogatungu
+10000894,Hlíðarvegur / Hrauntunga,Hrauntunga,64.108752,-21.890088,Hrauntungu,Hrauntungu
+10000895,Hlíðarhjalli / Brekkuhjalli,Brekkuhjalli,64.107587,-21.879616,Brekkuhjalla,Brekkuhjalla
+10000900,Smárahvammsvegur / Hlíðarsmári,Hlíðarsmári,64.097631,-21.891484,Hlíðarsmára,Hlíðarsmára
+10000901,Smáralind,Smáralind,64.100015,-21.889215,Smáralind,Smáralindar
+10000903,Smáralind,Smáralind,64.099989,-21.889837,Smáralind,Smáralindar
+10000904,Smárahvammsvegur / Hlíðarsmári,Hlíðarsmári,64.097616,-21.891752,Hlíðarsmára,Hlíðarsmára
+10000905,Versalir,Versalir,64.091631,-21.858004,Versölum,Versala
+10000906,Kársnesbraut / Huldubraut,Huldubraut,64.114277,-21.914967,Huldubraut,Huldubrautar
+10000907,Hvammsvegur,Hvammsvegur,64.096463,-21.858742,Hvammsvegi,Hvammsvegar
+10000908,Hlíðardalsvegur / Iðalind,Iðalind,64.098855,-21.86228,Iðalind,Iðalindar
+10000909,Hlíðardalsvegur / Krossalind,Krossalind,64.102217,-21.863889,Krossalind,Krossalindar
+10000910,Lindarvegur,Lindarvegur,64.100794,-21.871763,Lindarvegi,Lindarvegar
+10000911,Salavegur / Rjúpnasalir,Rjúpnasalir,64.090012,-21.843933,Rjúpnasölum,Rjúpnasala
+10000917,Skálaheiði,Skálaheiði,64.110944,-21.873839,Skálaheiði,Skálaheiðar
+10000918,Hjallakirkja,Hjallakirkja,64.109514,-21.866139,Hjallakirkju,Hjallakirkju
+10000919,Hlíðarhjalli / Fífuhjalli,Fífuhjalli,64.107695,-21.860097,Fífuhjalla,Fífuhjalla
+10000920,Rjúpnavegur,Rjúpnavegur,64.08675,-21.833593,Rjúpnavegi,Rjúpnavegar
+10000922,Hörðuvallaskóli,Hörðuvallaskóli,64.084542,-21.825711,Hörðuvallaskóla,Hörðuvallaskóla
+10000923,Hörðuvallaskóli,Hörðuvallaskóli,64.084729,-21.825878,Hörðuvallaskóla,Hörðuvallaskóla
+10000925,Rjúpnavegur,Rjúpnavegur,64.086905,-21.833585,Rjúpnavegi,Rjúpnavegar
+10000926,Skálaheiði,Skálaheiði,64.110981,-21.873669,Skálaheiði,Skálaheiðar
+10000927,Engihjalli,Engihjalli,64.109807,-21.860418,Engihjalla,Engihjalla
+10000928,Hjallaskóli,Hjallaskóli,64.110826,-21.862431,Hjallaskóla,Hjallaskóla
+10000929,Hlíðarvegur / Vogatunga,Vogatunga,64.107718,-21.901357,Vogatungu,Vogatungu
+10000930,Hlíðarvegur / Grænatunga,Grænatunga,64.108219,-21.895275,Grænutungu,Grænutungu
+10000931,Hlíðarvegur / Hrauntunga,Hrauntunga,64.108622,-21.890542,Hrauntungu,Hrauntungu
+10000932,Hlíðarhjalli / Brekkuhjalli,Brekkuhjalli,64.10752,-21.879363,Brekkuhjalla,Brekkuhjalla
+10000933,Hlíðarhjalli / Bakkahjalli,Bakkahjalli,64.107343,-21.87384,Bakkahjalla,Bakkahjalla
+10000935,Hjallaskóli,Hjallaskóli,64.110854,-21.862583,Hjallaskóla,Hjallaskóla
+10000936,Engihjalli,Engihjalli,64.10974,-21.860498,Engihjalla,Engihjalla
+10000937,Kársnesbraut / Sæbólsbraut,Sæbólsbraut,64.11472,-21.903566,Sæbólsbraut,Sæbólsbrautar
+10000938,Kársnesbraut / Huldubraut,Huldubraut,64.114406,-21.915075,Huldubraut,Huldubrautar
+10000939,Kársnesbraut / Litlavör,Litlavör,64.113834,-21.923208,Litluvör,Litluvarar
+10000940,Kársnesbraut / Vesturvör,Vesturvör,64.11375,-21.930038,Vesturvör,Vesturvarar
+10000941,Kópavogsbraut / Borgarholtsbraut,Borgarholtsbraut,64.111205,-21.935797,Borgarholtsbraut,Borgarholtsbrautar
+10000942,Kópavogsbraut / Kópavör,Kópavör,64.109204,-21.930964,Kópavör,Kópavarar
+10000943,Kársnesskóli,Kársnesskóli,64.109103,-21.92395,Kársnesskóla,Kársnesskóla
+10000944,Kópavogslaug,Kópavogslaug,64.110625,-21.91786,Kópavogslaug,Kópavogslaugar
+10000945,Vatnsendavegur / Breiðahvarf,Breiðahvarf,64.090744,-21.807918,Breiðahvarfi,Breiðahvarfs
+10000946,Digranesskóli,Digranesskóli,64.111428,-21.872992,Digranesskóla,Digranesskóla
+10000947,Digranesskóli,Digranesskóli,64.111316,-21.871135,Digranesskóla,Digranesskóla
+10000948,Lundur,Lundur,64.114587,-21.89492,Lundi,Lundar
+10000949,Lundur,Lundur,64.114836,-21.895272,Lundi,Lundar
+10000950,Þingmannaleið / Vallakór,Vallakór,64.083772,-21.818533,Vallakór,Vallakórs
+10000951,Boðaþing,Boðaþing,64.082119,-21.817871,Boðaþingi,Boðaþings
+10000952,Þingmannaleið / Aðalþing,Aðalþing,64.083907,-21.818448,Aðalþingi,Aðalþings
+10000953,Vatnsendahvarf / Víkurhvarf,Víkurhvarf,64.093626,-21.808357,Víkurhvarfi,Víkurhvarfs
+10000954,Vatnsendahvarf / Ögurhvarf,Ögurhvarf,64.096425,-21.805488,Ögurhvarfi,Ögurhvarfs
+10000955,Vatnsendahvarf / Ögurhvarf,Ögurhvarf,64.09653,-21.80577,Ögurhvarfi,Ögurhvarfs
+10000956,Vatnsendahvarf / Víkurhvarf,Víkurhvarf,64.093697,-21.808651,Víkurhvarfi,Víkurhvarfs
+10000957,Dalaþing,Dalaþing,64.082119,-21.817871,Dalaþingi,Dalaþings
+11000100,Grænamýri,Grænamýri,64.146191,-21.977659,Grænumýri,Grænumýri
+11000101,Nesvegur / Skerjabraut,Skerjabraut,64.148336,-21.98321,Skerjabraut,Skerjabrautar
+11000102,Eiðistorg,Eiðistorg,64.150701,-21.987077,Eiðistorgi,Eiðistorgs
+11000103,Íþróttamiðstöð Seltjarnarness,Íþróttamiðstöð Seltjarnarness,64.149908,-21.992431,Íþróttamiðstöð Seltjarnarness,Íþróttamiðstöðvar Seltjarnarness
+11000104,Suðurströnd / Bakkavör,Bakkavör,64.151323,-22.002626,Bakkavör,Bakkavarar
+11000105,Suðurströnd / Miðbraut,Miðbraut,64.153259,-22.004812,Miðbraut,Miðbrautar
+11000106,Lindarbraut / Hæðarbraut,Hæðarbraut,64.155473,-22.003511,Hæðarbraut,Hæðarbrautar
+11000107,Lindarbraut / Hofgarðar,Hofgarðar,64.15764,-22.001297,Hofgörðum,Hofgarða
+11000108,Norðurströnd / Bollagarðar,Bollagarðar,64.157636,-21.99257,Bollagörðum,Bollagarða
+11000109,Norðurströnd / Fornaströnd,Fornaströnd,64.154798,-21.986627,Fornuströnd,Fornustrandar
+11000110,Norðurströnd / Austurströnd,Austurströnd,64.152592,-21.985947,Austurströnd,Austurstrandar
+11000111,Eiðistorg,Eiðistorg,64.150387,-21.9861,Eiðistorgi,Eiðistorgs
+11000112,Nesvegur / Skerjabraut,Skerjabraut,64.148036,-21.982981,Skerjabraut,Skerjabrautar
+11000113,Grænamýri,Grænamýri,64.146087,-21.977692,Grænumýri,Grænumýrar
+11000147,Norðurströnd / Barðaströnd,Barðaströnd,64.156782,-21.988204,Barðaströnd,Barðastrandar
+13001201,Arnarneshæð,Arnarneshæð,64.09963218,-21.91718273,Arnarneshæð,Arnarneshæðar
+13001202,Arnarneshæð,Arnarneshæð,64.099335,-21.913226,Arnarneshæð,Arnarneshæðar
+13001204,Arnarneshæð,Arnarneshæð,64.099529,-21.912902,Arnarneshæð,Arnarneshæðar
+13001206,Vífilsstaðavegur / Sjávargrund,Sjávargrund,64.091965,-21.929768,Sjávargrund,Sjávargrundar
+13001207,Arnarnesvegur / Bæjarbraut,Bæjarbraut,64.098383,-21.903811,Bæjarbraut,Bæjarbrautar
+13001208,Karlabraut / Reynilundur,Reynilundur,64.085651,-21.909578,Reynilundi,Reynilundar
+13001209,Karlabraut / Espilundur,Espilundur,64.0858,-21.909279,Espilundi,Espilundar
+13001210,Karlabraut / Furulundur,Furulundur,64.088235,-21.907285,Furulundi,Furulundar
+13001211,Karlabraut / Búðir,Búðir,64.089627,-21.904301,Búðum,Búða
+13001212,Karlabraut / Heiðarlundur,Heiðarlundur,64.088219,-21.907533,Heiðarlundi,Heiðarlundar
+13001215,Vídalínskirkja,Vídalínskirkja,64.088156,-21.913116,Vídalínskirkju,Vídalínskirkju
+13001216,Vídalínskirkja,Vídalínskirkja,64.088003,-21.913181,Vídalínskirkju,Vídalínskirkju
+13001218,Vídalínskirkja,Vídalínskirkja,64.086775,-21.916422,Vídalínskirkju,Vídalínskirkju
+13001219,Garðatorg,Garðatorg,64.088501,-21.922039,Garðatorgi,Garðatorgs
+13001220,Garðatorg,Garðatorg,64.089602,-21.921189,Garðatorgi,Garðatorgs
+13001221,Hofsstaðabraut / Lyngmóar,Lyngmóar,64.091298,-21.914408,Lyngmóum,Lyngmóa
+13001222,Fjölbrautaskólinn í Garðabæ / FG,FG,64.092528,-21.902847,FG,FG
+13001223,Bæjarbraut / Blómahæð,Blómahæð,64.096422,-21.902784,Blómahæð,Blómahæðar
+13001224,Karlabraut / Búðir,Búðir,64.08958,-21.904583,Búðum,Búða
+13001225,Bæjarbraut / Maltakur,Maltakur,64.09602,-21.90212,Maltakri,Maltakurs
+13001226,Fjölbrautaskólinn í Garðabæ / FG,FG,64.092585,-21.903221,FG,FG
+13001227,Hofsstaðabraut / Hlíðarbyggð,Hlíðarbyggð,64.091082,-21.914151,Hlíðarbyggð,Hlíðarbyggðar
+13001228,Garðatorg,Garðatorg,64.089524,-21.921489,Garðatorgi,Garðatorgs
+13001232,IKEA,IKEA,64.075575,-21.913278,IKEA,IKEA
+13001233,Flatahraun / Álftanesvegur,Álftanesvegur,64.077515,-21.929596,Álftanesvegi,Álftanesvegar
+13001300,Ásgarður,Ásgarður,64.089679,-21.929797,Ásgarði,Ásgarðs
+13001301,Ásabraut / Arnarás,Arnarás,64.09075,-21.942956,Arnarási,Arnaráss
+13001302,Ásabraut / Birkiás,Birkiás,64.088076,-21.940529,Birkiási,Birkiáss
+13001303,Ásabraut / Brekkuás,Brekkuás,64.086973,-21.942166,Brekkuási,Brekkuáss
+13001304,Ásabraut / Hraunsholtsbraut,Hraunsholtsbraut,64.085691,-21.950248,Hraunholtsbraut,Hraunholtsbrautar
+13001305,Álftanesvegur / Herjólfsgata,Herjólfsgata,64.085066,-21.968358,Herjólfsgötu,Herjólfsgötu
+13001306,Álftanesvegur / Garðaholtsvegur,Garðaholtsvegur,64.089246,-21.982334,Garðaholtsvegi,Garðaholtsvegar
+13001322,Garðahraun,Garðahraun,64.084827,-21.958036,Garðahrauni,Garðahrauns
+13001323,Garðahraun,Garðahraun,64.084719,-21.957896,Garðahrauni,Garðahrauns
+13001328,Álftanesvegur / Garðaholtsvegur,Garðaholtsvegur,64.088769,-21.981235,Garðaholtsvegi,Garðaholtsvegar
+13001329,Álftanesvegur / Herjólfsgata,Herjólfsgata,64.08481,-21.967695,Herjólfsgötu,Herjólfsgötu
+13001330,Vífilsstaðavegur / Sjáland,Sjáland,64.09163385,-21.94295756,Sjálandi,Sjálands
+13001333,Vífilsstaðavegur / Sjáland,Sjáland,64.09182,-21.942956,Sjálandi,Sjálands
+13001334,Garðatorg,Garðatorg,64.088165,-21.921699,Garðatorgi,Garðatorgs
+13001335,Vídalínskirkja,Vídalínskirkja,64.086336,-21.915694,Vídalínskirkju,Vídalínskirkju
+13001336,Vífilsstaðavegur / Sjávargrund,Sjávargrund,64.092021,-21.929626,Sjávargrund,Sjávargrundar
+13001337,Vífilsstaðavegur / Markarflöt,Markarflöt,64.084208,-21.904143,Markarflöt,Markarflatar
+13001338,Vífilsstaðir,Vífilsstaðir,64.082296,-21.890236,Vífilsstöðum,Vífilsstaða
+13001339,Vífilsstaðavegur / Asparlundur,Asparlundur,64.084172,-21.902866,Asparlundi,Asparlundar
+13001343,Suðurhraun,Suðurhraun,64.077767,-21.926526,Suðurhrauni,Suðurhrauns
+13001344,Austurhraun / Suðurhraun,Suðurhraun,64.076161,-21.922743,Suðurhrauni,Suðurhrauns
+13001345,Marel,Marel,64.076783,-21.918972,Marel,Marels
+13001346,Austurhraun / Miðhraun,Miðhraun,64.078026,-21.914426,Miðhrauni,Miðhrauns
+13001347,Austurhraun / Miðhraun,Miðhraun,64.078047,-21.914549,Miðhrauni,Miðhrauns
+13001348,Marel,Marel,64.076844,-21.919126,Marel,Marels
+13001349,Austurhraun / Suðurhraun,Suðurhraun,64.076222,-21.922933,Suðurhrauni,Suðurhrauns
+13001350,Suðurhraun,Suðurhraun,64.077831,-21.926387,Suðurhrauni,Suðurhrauns
+13001351,Ásabraut / Hraunsholtsbraut,Hraunsholtsbraut,64.085576,-21.950153,Hraunholtsbraut,Hraunholtsbrautar
+13001352,Ásabraut / Brekkuás,Brekkuás,64.086953,-21.941986,Brekkuási,Brekkuáss
+13001353,Ásabraut / Birkiás,Birkiás,64.088124,-21.940319,Birkiási,Birkiáss
+13001354,Ásabraut / Arnarás,Arnarás,64.090879,-21.942775,Arnarási,Arnaráss
+13001355,Sjálandsskóli,Sjálandsskóli,64.092516,-21.934146,Sjálandsskóla,Sjálandsskóla
+13001356,Sjálandsskóli,Sjálandsskóli,64.092451,-21.933774,Sjálandsskóla,Sjálandsskóla
+13001361,Kauptún,Kauptún,64.07396336,-21.91408753,Kauptúni,Kauptúns
+13001362,Arnarnesvegur / Nónhæð,Nónhæð,64.09663864,-21.89455032,Nónhæð,Nónhæðar
+13001504,Hraunsholt,Hraunsholt,64.086284,-21.937748,Hraunsholti,Hraunsholts
+13001506,Silfurtún,Silfurtún,64.095163,-21.922373,Silfurtúni,Silfurtúns
+13001507,Arnarneshæð,Arnarneshæð,64.099366,-21.914992,Arnarneshæð,Arnarneshæðar
+13001516,Góa,Góa,64.07575467,-21.92852691,Góu,Góu
+13001523,Hegranes,Hegranes,64.096185,-21.921988,Hegranesi,Hegraness
+13001525,Ásar,Ásar,64.086355,-21.938269,Ásum,Ása
+13001584,Flatahraun / Álftanesvegur,Álftanesvegur,64.077452,-21.92963,Álftanesvegi,Álftanesvegar
+13001585,Góa,Góa,64.07617456,-21.92863291,Góu,Góu
+13001586,Reykjanesbraut / Vífilsstaðavegur,Vífilsstaðavegur,64.0834746,-21.89171791,Vífilsstaðavegi,Vífilsstaðavegar
+13001587,Reykjanesbraut / Vífilsstaðavegur,Vífilsstaðavegur,64.0834746,-21.89656734,Vífilsstaðavegi,Vífilsstaðavegar
+14001500,Fjörður,Fjörður,64.067803,-21.957581,Firði,Fjarðar
+14001501,Sjónarhóll,Sjónarhóll,64.072042,-21.95451,Sjónarhóli,Sjónarhóls
+14001502,Hraunbrún,Hraunbrún,64.075941,-21.951317,Hraunbrún,Hraunbrúnar
+14001503,Stakkahraun,Stakkahraun,64.079737,-21.948809,Stakkahrauni,Stakkahrauns
+14001504,Hjallabraut / Hraunbrún,Hraunbrún,64.07239864,-21.9662195,Hraunbrún,Hraunbrúnar
+14001505,Hjallabraut / Skátaheimilið,Skátaheimilið,64.07541806,-21.9661126,Skátaheimilinu,Skátaheimilisins
+14001506,Hjallabraut / Skjólvangur,Skjólvangur,64.07729143,-21.96584171,Skjólvangi,Skjólvangs
+14001507,Breiðvangur / Hjallabraut,Hjallabraut,64.08016154,-21.96163584,Hjallabraut,Hjallabrautar
+14001508,Breiðvangur,Breiðvangur,64.0816366,-21.96064484,Breiðvangi,Breiðvangs
+14001509,Engidalsskóli,Engidalsskóli,64.08222428,-21.95738378,Engidalsskóla,Engidalsskóla
+14001510,Breiðvangur / Norðurvangur,Breiðvangur,64.08218653,-21.96053958,Breiðvangi,Breiðvangs
+14001511,Breiðvangur / Hjallabraut,Hjallabraut,64.08014754,-21.96188054,Hjallabraut,Hjallabrautar
+14001512,Hjallabraut / Laufvangur,Laufvangur,64.0787958,-21.95422691,Laufvangi,Laufvangs
+14001513,Flatahraun / Sléttahraun,Sléttahraun,64.0751527,-21.95014535,Sléttahrauni,Sléttahrauns
+14001514,Iðnskólinn,Iðnskólinn,64.07540867,-21.94596744,Iðnskólanum,Iðnskólans
+14001515,Kaplakriki,Kaplakriki,64.07541845,-21.93667601,Kaplakrika,Kaplakrika
+14001516,Hamraberg / Víðiberg,Víðberg,64.0739943,-21.93252493,Víðibergi,Víðibergs
+14001517,Hamraberg / Lyngberg,Lyngberg,64.07310437,-21.93433812,Lyngbergi,Lyngbergs
+14001518,Hamraberg / Hnotuberg,Hnotuberg,64.07165306,-21.93637874,Hnotubergi,Hnotubergs
+14001519,Hamraberg / Einiberg,Einiberg,64.06827671,-21.93593829,Einibergi,Einibergs
+14001520,Lækjarskóli,Lækjarskóli,64.06706345,-21.93960391,Lækjarskóla,Lækjarskóla
+14001521,Selvogsgata,Selvogsgata,64.06373427,-21.94644665,Selvogsgötu,Selvogsgötu
+14001522,Öldutúnsskóli,Öldutúnsskóli,64.06259038,-21.94441797,Öldutúnsskóla,Öldutúnsskóla
+14001523,Kaldárselsvegur / Dalsás,Dalsás,64.05795782,-21.93467943,Dalsási,Dalsáss
+14001524,Brekkuás,Brekkuás,64.05481281,-21.93036935,Brekkuási,Brekkuáss
+14001525,Goðatorg,Goðatorg,64.05796016,-21.94909136,Goðatorgi,Goðatorgs
+14001526,Hjallabraut,Hjallabraut,64.079085,-21.94997,Hjallabraut,Hjallabrautar
+14001527,Hraunbrún,Hraunbrún,64.074785,-21.952547,Hraunbrún,Hraunbrúnar
+14001528,Hellisgerði,Hellisgerði,64.071812,-21.955183,Hellisgerði,Hellisgerðis
+14001529,Vesturgata / Pakkhúsið,Pakkhúsið,64.06994604,-21.9601523,Pakkhúsinu,Pakkhússins
+14001530,Vesturgata / Vesturbraut,Vesturbraut,64.069946,-21.963411,Vesturbraut,Vesturbrautar
+14001531,Vesturgata / Bungalow,Bungalow,64.070682,-21.965226,Bungalow,Bungalow
+14001532,Sundhöll Hafnarfjarðar,Sundhöll Hafnarfjarðar,64.072826,-21.969367,Sundhöll Hafnarfjarðar,Sundhallar Hafnarfjarðar
+14001533,Skjólvangur,Skjólvangur,64.077608,-21.966409,Skjólvangi,Skjólvangs
+14001534,Hrafnista,Hrafnista,64.07914,-21.971701,Hrafnistu,Hrafnistu
+14001535,Hjallabraut / Víðivangur,Víðivangur,64.078842,-21.963587,Víðivangi,Víðivangs
+14001536,Hjallabraut / Miðvangur,Miðvangur,64.07927,-21.958053,Miðvangi,Miðvangs
+14001537,Hjallahraun,Hjallahraun,64.078033,-21.947396,Hjallahrauni,Hjallahrauns
+14001538,Mávahraun,Mávahraun,64.074825,-21.9424,Mávahrauni,Mánahrauns
+14001539,Álfaskeið,Álfaskeið,64.071306,-21.941305,Álfaskeiði,Álfaskeiðs
+14001540,Sólvangur,Sólvangur,64.068839,-21.939605,Sólvangi,Sólvangs
+14001541,Flensborg,Flensborg,64.064381,-21.947992,Flensborg,Flensborgar
+14001542,Flensborg,Flensborg,64.064357,-21.948489,Flensborg,Flensborgar
+14001543,Hlíðarbraut,Hlíðarbraut,64.062707,-21.953896,Hlíðarbraut,Hlíðarbrautar
+14001544,Suðurbæjarlaug,Suðurbæjarlaug,64.060473,-21.962542,Suðurbæjarlaug,Suðurbæjarlaugar
+14001545,Strandgata / Flensborgartorg,Flensborgartorg,64.062054,-21.961625,Flensborgartorgi,Flensborgartorgs
+14001546,Strandgata / Fjörukráin,Fjörukráin,64.065841,-21.956042,Fjörukránni,Fjörukráarinnar
+14001547,Ásvallalaug,Ásvallalaug,64.05205322,-21.97479954,Ásvallalaug,Ásvallalaugar
+14001549,Strandgata / Suðurbæjarlaug,Suðurbæjarlaug,64.0599852,-21.96376109,Suðurbæjarlaug,Suðurbæjarlaugar
+14001550,Suðurbraut / Smárabarð,Smárabarð,64.06013155,-21.96668809,Smárabarði,Smárabarðs
+14001551,Hjallabraut / Miðvangur,Miðvangur,64.079562,-21.958359,Miðvangi,Miðvangs
+14001552,Hjallabraut / Víðivangur,Víðivangur,64.079396,-21.962947,Víðivangi,Víðivangs
+14001553,Skjólvangur,Skjólvangur,64.077692,-21.966353,Skjólvangi,Skjólvangs
+14001554,Sundhöll Hafnarfjarðar,Sundhöll Hafnarfjarðar,64.072793,-21.969544,Sundhöll Hafnarfjarðar,Sundhallar Hafnarfjarðar
+14001555,Vesturgata / Bungalow,Bungalow,64.070666,-21.965677,Bungalow,Bungalow
+14001556,Vesturgata / Vesturbraut,Vesturbraut,64.069819,-21.963072,Vesturbraut,Vesturbrautar
+14001558,Suðurbraut / Hvaleyrarbraut,Hvaleyrarbraut,64.05657595,-21.97756122,Hvaleyrarbraut,Hvaleyrarbrautar
+14001561,Lækjargata,Lækjargata,64.067288,-21.947194,Lækjargötu,Lækjargötu
+14001562,Suðurbraut / Melabraut,Melabraut,64.058801,-21.971656,Melabraut,Melabrautar
+14001563,Kaldárselsvegur,Kaldárselsvegur,64.058817,-21.939937,Kaldárselsvegi,Kaldárselsvegar
+14001564,Kaldárselsvegur,Kaldárselsvegur,64.058904,-21.940189,Kaldárselsvegi,Kaldárselsvegar
+14001567,Háholt / Akurholt,Akurholt,64.055659,-21.979984,Akurholti,Akurholts
+14001568,Háholt / Bæjarholt,Bæjarholt,64.05701,-21.982707,Bæjarholti,Bæjarholts
+14001569,Háholt / Hörgsholt,Hörgsholt,64.057772,-21.98542,Hörgsholti,Hörgsholts
+14001570,Miklaholt,Miklaholt,64.059531,-21.986919,Miklaholti,Miklaholts
+14001577,Fjarðarkaup,Fjarðarkaup,64.081496,-21.938211,Fjarðarkaupum,Fjarðarkaupa
+14001580,Jófríðarstaðavegur,Jófríðarstaðavegur,64.062611,-21.953708,Jófríðarstaðavegi,Jófríðarstaðavegar
+14001582,Álfaskeið / Mávahraun,Mávahraun,64.074792,-21.942185,Mávahrauni,Mávahrauns
+14001583,Sólvangur,Sólvangur,64.0689,-21.939511,Sólvangi,Sólvangs
+14001585,Hjallahraun,Hjallahraun,64.078219,-21.947617,Hjallahrauni,Hjallahrauns
+14001586,Suðurbraut / Þúfubarð,Þúfubarð,64.058719,-21.971502,Þúfubarði,Þúfubarðs
+14001587,Suðurbæjarlaug,Suðurbæjarlaug,64.060403,-21.962432,Suðurbæjarlaug,Suðurbæjarlaugar
+14001588,Hlíðarberg / 10-11,10-11,64.066405,-21.935842,10-11,10-11
+14001589,Hlíðarberg / Birkihlíð,Birkihlíð,64.062642,-21.93457,Birkihlíð,Birkihlíðar
+14001590,Hlíðarberg / Engjahlíð,Engjahlíð,64.060324,-21.932901,Engjahlíð,Engjahlíðar
+14001591,Hlíðarberg / Sóleyjarhlíð,Sóleyjarhlíð,64.058767,-21.927344,Sóleyjarhlíð,Sóleyjarhlíðar
+14001592,Hlíðarberg / Móberg,Móberg,64.060179,-21.92368,Móbergi,Móbergs
+14001593,Hlíðarberg / Lindarberg,Lindarberg,64.062247,-21.925334,Lindarbergi,Lindarbergs
+14001594,Hlíðarberg / Klettaberg,Klettaberg,64.064481,-21.927641,Klettabergi,Klettabergs
+14001595,Setbergsskóli,Setbergsskóli,64.066093,-21.933594,Setbergsskóla,Setbergsskóla
+14001596,Hlíðarberg / Hamraberg,Hamraberg,64.067181,-21.936016,Hamrabergi,Hamrabergs
+14001597,Lækjargata,Lækjargata,64.06738387,-21.94798208,Lækjargötu,Lækjargötu
+14001600,Strandgata / Fjörukráin,Fjörukráin,64.065194,-21.956773,Fjörukránni,Fjörukráarinnar
+14001601,Strandgata / Flensborgartorg,Flensborgartorg,64.062178,-21.96172,Flensborgartorgi,Flensborgartorgs
+14001602,Kirkjuvellir,Kirkjuvellir,64.050653,-21.982217,Kirkjuvöllum,Kirkjuvalla
+14001603,Daggarvellir,Daggarvellir,64.048205,-21.980835,Daggarvöllum,Daggarvalla
+14001604,Hraunvallaskóli,Hraunvallaskóli,64.0456,-21.979188,Hraunvallaskóla,Hraunvallaskóla
+14001605,Haukahús,Haukahús,64.053245,-21.971125,Haukahúsum,Haukahúsa
+14001606,Ástjörn,Ástjörn,64.054096,-21.965867,Ástjörn,Ástjarnar
+14001607,Ásbraut / Álftaás,Álftaás,64.056631,-21.957028,Álftaási,Álftaáss
+14001608,Vörðutorg,Vörðutorg,64.055725,-21.945865,Vörðutorgi,Vörðutorgs
+14001609,Ásbraut / Álftaás,Álftaás,64.056765,-21.956984,Álftaási,Álftaáss
+14001610,Ástjörn,Ástjörn,64.054939,-21.965701,Ástjörn,Ástjarnar
+14001611,Suðurhvammur,Suðurhvammur,64.057241,-21.965128,Suðurhvammi,Suðurhvamms
+14001612,Haukahús,Haukahús,64.053334,-21.971691,Haukahúsum,Haukahúsa
+14001613,Hraunvallaskóli,Hraunvallaskóli,64.045546,-21.979055,Hraunvallaskóla,Hraunvallaskóla
+14001614,Daggarvellir,Daggarvellir,64.048361,-21.980808,Daggarvöllum,Daggarvalla
+14001615,Kirkjuvellir,Kirkjuvellir,64.050623,-21.981941,Kirkjuvöllum,Kirkjuvalla
+14001616,Ásvallalaug,Ásvallalaug,64.05277223,-21.97520477,Ásvallalaug,Ásvallalaugar
+14001617,Kirkjutorg,Kirkjutorg,64.05156626,-21.98011716,Kirkjutorgi,Kirkjutorgs
+14001618,Kirkjutorg,Kirkjutorg,64.05159347,-21.97966918,Kirkjutorgi,Kirkjutorgs
+14001619,Ásvallalaug,Ásvallalaug,64.05267409,-21.97517372,Ásvallalaug,Ásvallalaugar
+14001620,Kelduhvammur,Kelduhvammur,64.057287,-21.965357,Kelduhvammi,Kelduhvamms
+14001623,Fjarðarkaup,Fjarðarkaup,64.081496,-21.939794,Fjarðarkaupum,Fjarðarkaupa
+14001624,Skútahraun / Slökkvistöð,Slökkvistöð,64.081646,-21.936967,Slökkvistöð,Slökkvistöðvar
+14001626,Grænakinn,Grænakinn,64.06599452,-21.94518275,Grænukinn,Grænukinnar
+14001627,Álfaskeið,Álfaskeið,64.071382,-21.941172,Álfaskeiði,Álfaskeiðs
+14001629,Miklaholt,Miklaholt,64.0596,-21.986931,Miklaholti,Miklaholts
+14001630,Háholt / Hörgsholt,Hörgsholt,64.057631,-21.985165,Hörgsholti,Hörgsholts
+14001631,Háholt / Bæjarholt,Bæjarholt,64.056916,-21.982859,Bæjarholti,Bæjarholts
+14001632,Háholt / Akurholt,Akurholt,64.055568,-21.979975,Akurholti,Akurholts
+14001634,Grænakinn,Grænakinn,64.066075,-21.944604,Grænukinn,Grænukinnar
+14001635,Hrafnista,Hrafnista,64.079055,-21.971916,Hrafnistu,Hrafnistu
+14001636,Herjólfsgata / Útsýnispallur,Útsýnispallur,64.075019,-21.973149,Útsýnispalli,Útsýnispalls
+14001637,Herjólfsgata / Útsýnispallur,Útsýnispallur,64.075105,-21.972971,Útsýnispalli,Útsýnispalls
+14001638,Hnoðravellir,Hnoðravellir,64.043228,-21.96752,Hnoðravöllum,Hnoðravalla
+14001639,Glitvellir,Glitvellir,64.042419,-21.975854,Glitvöllum,Glitvalla
+14001640,Hvannavellir,Hvannavellir,64.043017,-21.97781,Hvannavöllum,Hvannavalla
+14001641,Flatahraun / Álfaskeið,Álfaskeið,64.075742,-21.941716,Álfaskeiði,Álfaskeiðs
+14001642,Bæjarhraun / Flatahraun,Flatahraun,64.07722,-21.939841,Flatahrauni,Flatahrauns
+14001643,Bæjarhraun,Bæjarhraun,64.079598,-21.94057,Bæjarhrauni,Bæjarhrauns
+14001644,Bæjarhraun,Bæjarhraun,64.079588,-21.940795,Bæjarhrauni,Bæjarhrauns
+14001645,Bæjarhraun / Flatahraun,Flatahraun,64.077163,-21.940054,Flatahrauni,Flatahrauns
+14001646,Flatahraun / Álfaskeið,Álfaskeið,64.075916,-21.941896,Álfaskeið,Álfaskeiðs
+14001647,Hvannavellir,Hvannavellir,64.043003,-21.977966,Hvannavöllum,Hvannavalla
+14001648,Glitvellir,Glitvellir,64.04234,-21.97579,Glitvöllum,Glitvalla
+14001649,Hnoðravellir,Hnoðravellir,64.043163,-21.967206,Hnoðravöllum,Hnoðravalla
+14001650,Hvaleyrarbraut / Brekkutröð,Brekkutröð,64.060387,-21.978211,Brekkutröð,Brekkutraðar
+14001651,Hvaleyrarbraut / Stapagata,Stapagata,64.062421,-21.968676,Stapagötu,Stapagötu
+14001652,Hvaleyrarbraut / Stapagata,Stapagata,64.062475,-21.968682,Stapagötu,Stapagötu
+14001653,Hvaleyrarbraut / Brekkutröð,Brekkutröð,64.060473,-21.978384,Brekkutröð,Brekkutraðar
+14001655,Klukkuvellir,Klukkuvellir,64.043669,-21.96265,Klukkuvöllum,Klukkuvalla
+14001660,Akurvellir,Akurvellir,64.049266,-21.983866,Akurvöllum,Akurvalla
+14001661,Akurvellir,Akurvellir,64.049251,-21.983721,Akurvöllum,Akurvalla
+14001662,Kirkjugarður Hafnarfjarðar,Kirkjugarður Hafnarfjarðar,64.06170569,-21.94200698,Kirkjugörðum Hafnarfjarðar,Kirkjugarða Hafnarfjarða
+16031307,Eyvindarstaðavegur,Eyvindarstaðavegur,64.106446,-22.009607,Eyvindarstaðavegi,Eyvindarstaðavegar
+16031308,Túngata,Túngata,64.109385,-22.012975,Túngötu,Túngötu
+16031309,Jörfavegur,Jörfavegur,64.114948,-22.005857,Jörfavegi,Jörfavegar
+16031310,Túngata,Túngata,64.109253,-22.012978,Túngötu,Túngötu
+16031311,Sjávargata,Sjávargata,64.109517,-22.018227,Sjávargötu,Sjávargötu
+16031312,Hólmatún,Hólmatún,64.108251,-22.021435,Hólmatúni,Hólmatúns
+16031313,Mýrarkot,Mýrarkot,64.104417,-22.027198,Mýrarkoti,Mýrarkots
+16031314,Bakkavegur,Bakkavegur,64.10216,-22.026917,Bakkavegi,Bakkavegar
+16031315,Höfðabraut,Höfðabraut,64.100105,-22.025576,Höfðabraut,Höfðabrautar
+16031317,Brekkuland,Brekkuland,64.100621,-22.019045,Brekkulandi,Brekkulands
+16031318,Höfðabraut,Höfðabraut,64.100226,-22.025543,Höfðabraut,Höfðabrautar
+16031319,Brekkuland,Brekkuland,64.100562,-22.018891,Brekkulandi,Brekkulands
+16031320,Breiðamýri,Breiðamýri,64.102341,-22.017874,Breiðumýri,Breiðumýrar
+16031321,Álftanesvegur / Bessastaðir,Bessastaðir,64.102592,-22.009632,Bessastöðum,Bessastaða
+16031322,Norðurnesvegur / Bessastaðir,Bessastaðir,64.102255,-22.009887,Bessastöðum,Bessastaða
+16031323,Suðurnesvegur / Klukkuholt,Klukkuholt,64.102224,-22.02678,Klukkuholti,Klukkuholts
+16031324,Suðurnesvegur / Mýrarkot,Mýrarkot,64.104473,-22.027019,Mýrarkoti,Mýrarkots
+16031325,Suðurnesvegur / Vesturtún,Vesturtún,64.108264,-22.021144,Vesturtúni,Vesturtúns
+16031326,Suðurnesvegur / Sjávargata,Sjávargata,64.109501,-22.017855,Sjávargötu,Sjávargötu
+16031327,Eyvindarstaðavegur,Eyvindarstaðavegur,64.106082,-22.009842,Eyvindarstaðavegi,Eyvindarstaðavegar
+16040604,Baugshlíð / Skálatún,Skálatún,64.15955,-21.725659,Skálatúni,Skálatúns
+16040606,Baugshlíð / Klapparhlíð,Klapparhlíð,64.163149,-21.727952,Klapparhlíð,Klapparhlíðar
+16040607,Álfatangi / Bollatangi,Bollatangi,64.168511,-21.717552,Bollatanga,Bollatanga
+16040608,Álfatangi / Brekkutangi,Brekkutangi,64.169358,-21.714603,Brekkutanga,Brekkutanga
+16040609,Álfatangi / Þverholt,Þverholt,64.170057,-21.709025,Þverholti,Þverholts
+16040610,Skeiðholt,Skeiðholt,64.169143,-21.70118,Skeiðholti,Skeiðholts
+16040611,Varmárskóli,Varmárskóli,64.169867,-21.692703,Varmárskóla,Varmárskóla
+16040612,Háholt,Háholt,64.167206,-21.694366,Háholti,Háholts
+16040613,Reykjavegur / Jónsteigur,Jónsteigur,64.163313,-21.687658,Jónsteigi,Jónsteigs
+16040614,Reykjavegur / Dælustöðvarvegur,Dælustöðvarvegur,64.158347,-21.670779,Dælustöðvarvegi,Dælustöðvarvegar
+16040615,Reykjavegur,Reykjavegur,64.155738,-21.663995,Reykjavegi,Reykjavegar
+16040616,Lágafellsskóli,Lágafellsskóli,64.167079,-21.722706,Lágafellsskóla,Lágafellsskóla
+16040617,Reykjavegur,Reykjavegur,64.155779,-21.663893,Reykjavegi,Reykjavegar
+16040618,Reykjavegur / Dælustöðvarvegur,Dælustöðvarvegur,64.158349,-21.670577,Dælustöðvarvegi,Dælustöðvarvegar
+16040619,Háholt,Háholt,64.167237,-21.693797,Háholti,Háholts
+16040620,Bjarkarholt,Bjarkarholt,64.16571436,-21.70505318,Bjarkarholti,Bjarkarholts
+16040622,Reykjavegur / Jónsteigur,Jónsteigur,64.164059,-21.689208,Jónsteigi,Jónsteigs
+16040624,Vesturlandsvegur / Ásland,Ásland,64.171424,-21.677768,Áslandi,Áslands
+16040634,Varmárskóli,Varmárskóli,64.169968,-21.692647,Varmárskóla,Varmárskóla
+16040635,Skeiðholt,Skeiðholt,64.169128,-21.701525,Skeiðholti,Skeiðholts
+16040636,Álfatangi / Þverholt,Þverholt,64.170266,-21.708993,Þverholti,Þverholts
+16040637,Álfatangi / Arnartangi,Arnartangi,64.169378,-21.715147,Arnartanga,Arnartanga
+16040638,Álfatangi / Skeljatangi,Skeljatangi,64.168442,-21.717853,Skeljatanga,Skeljatanga
+16040639,Lágafellsskóli,Lágafellsskóli,64.166032,-21.72591,Lágafellsskóla,Lágafellsskóla
+16040641,Baugshlíð / Skálatún,Skálatún,64.159296,-21.725839,Skálatúni,Skálatúns
+16040649,Baugshlíð / Blikastaðavegur,Blikastaðavegur,64.162987,-21.728159,Blikastaðavegi,Blikastaðavegar
+16040650,Reykjavegur / Völuteigur,Völuteigur,64.160714,-21.68113,Völuteigi,Völuteigs
+16040651,Reykjavegur / Völuteigur,Völuteigur,64.161111,-21.681836,Völuteigi,Völuteigs
+16040652,Vesturlandsvegur / Ásland,Ásland,64.170692,-21.679204,Áslandi,Áslands
+16040653,Leirvogstunga,Leirvogstunga,64.183107,-21.68257,Leirvogstungu,Leirvogstungu
+16040655,Reykjalundur,Reykjalundur,64.162784,-21.66382,Reykjalundi,Reykjalundar
+16040656,Tjaldanes,Tjaldanes,64.180301,-21.635617,Tjaldanesi,Tjaldaness
+16040657,Mosfell,Mosfell,64.180536,-21.619704,Mosfelli,Mosfells
+16040658,Lundur,Lundur,64.180738,-21.606306,Lundi,Lundar
+16040659,Laxnes,Laxnes,64.180337,-21.590415,Laxnesi,Laxness
+16040660,Lundur,Lundur,64.18083,-21.606564,Lundi,Lundar
+16040661,Mosfell,Mosfell,64.180615,-21.619987,Mosfelli,Mosfells
+16040662,Tjaldanes,Tjaldanes,64.18039,-21.635743,Tjaldanesi,Tjaldaness
+30001807,Garðabraut,Garðabraut,64.319621,-22.063736,Garðabraut,Garðabrautar
+30001808,Bæjarskrifstofan,Bæjarskrifstofan,64.320347,-22.069842,Bæjarskrifstofunni,Bæjarskrifstofunnar
+30001809,Kirkjubraut / Stillholt,Stillholt,64.321487,-22.075413,Stillholti,Stillholts
+30001810,Akratorg,Akratorg,64.317775,-22.082324,Akratorgi,Akratorgs
+30001811,Kirkjubraut / Stillholt,Stillholt,64.321424,-22.074951,Stillholti,Stillholts
+30001812,Bæjarskrifstofan,Bæjarskrifstofan,64.320307,-22.070044,Bæjarskrifstofunni,Bæjarskrifstofunnar
+30001813,Garðabraut,Garðabraut,64.319543,-22.063943,Garðabraut,Garðabrautar
+30001822,Þjóðbraut,Þjóðbraut,64.326208,-22.055538,Þjóðbraut,Þjóðbrautar
+30001823,Innnesvegur,Innnesvegur,64.319885,-22.059071,Innnesvegi,Innnesvegar
+30001824,Innnesvegur,Innnesvegur,64.320122,-22.059034,Innnesvegi,Innnesvegar
+30001825,Þjóðbraut,Þjóðbraut,64.326173,-22.055417,Þjóðbraut,Þjóðbrautar
+30001827,Bresaflöt,Bresaflöt,64.322727,-22.057072,Bresaflöt,Bresaflatar
+30001828,Bresaflöt,Bresaflöt,64.322708,-22.05672,Bresaflöt,Bresaflatar
+82000001,Fossnesti,Fossnesti,63.937022,-20.987522,Fossnesti,Fossnestis
+82000002,Ráðhúsið,Ráðhúsið,63.937351,-21.001897,Ráðhúsinu,Ráðhússins
+82000003,OLÍS Selfossi,OLÍS Selfossi,63.943484,-21.008142,OLÍS Selfossi,OLÍS Selfossi
+82000004,Orkan Selfossi,Orkan Selfossi,63.945073,-21.010706,Orkunni Selfossi,Orkunnar Selfossi
+82000005,Ráðhúsið,Ráðhúsið,63.937271,-21.001902,Ráðhúsinu,Ráðhússins
+87160001,Shell Hveragerði,Shell Hveragerði,63.995733,-21.184938,Shell Hveragerði,Shell Hveragerðis
+87160002,Shell Hveragerði,Shell Hveragerði,63.995618,-21.184848,Shell Hveragerði,Shell Hveragerði
+90000001,Stjórnarráðið,Stjórnarráðið,64.147505,-21.934808,Stjórnarráðinu,Stjórnarráðsins
+90000002,Þjóðleikhúsið,Þjóðleikhúsið,64.146762,-21.931048,Þjóðleikhúsinu,Þjóðleikhússins
+90000003,Fríkirkjuvegur,Fríkirkjuvegur,64.143101,-21.940088,Fríkirkjuvegi,Fríkirkjuvegar
+90000004,Menntaskólinn í Reykjavík / MR,MR,64.146477,-21.937258,MR,MR
+90000006,Umferðarmiðstöðin,Umferðarmiðstöðin,64.13745846,-21.93423791,Umferðarmiðstöðinni,Umferðarmiðstöðvarinnar
+90000009,Nauthólsvegur,Nauthólsvegur,64.130051,-21.930305,Nauthólsvegi,Nauthólsvegar
+90000011,Snorrabraut,Snorrabraut,64.13875,-21.92142,Snorrabraut,Snorrabrautar
+90000013,Kringlan,Kringlan,64.131921,-21.889215,Kringlunni,Kringlunnar
+90000015,Kringlan,Kringlan,64.130009,-21.900467,Kringlunni,Kringlunnar
+90000016,Kringlan,Kringlan,64.129588,-21.899836,Kringlunni,Kringlunnar
+90000018,Ártún,Ártún,64.123754,-21.821591,Ártúni,Ártúns
+90000019,Ártún,Ártún,64.124214,-21.822107,Ártúni,Ártúns
+90000020,Grandi,Grandi,64.155814,-21.941402,Granda,Granda
+90000021,Grandagarður,Grandagarður,64.153043,-21.95107,Grandagarði,Grandagarðs
+90000022,Mýrargata,Mýrargata,64.151381,-21.948571,Mýrargötu,Mýrargötu
+90000027,Frakkastígur,Frakkastígur,64.145559,-21.924936,Frakkastíg,Frakkastígs
+90000028,Barónsstígur,Barónsstígur,64.144352,-21.918865,Barónsstíg,Barónsstígs
+90000029,Klettagarðar / Skarfagarðar,Skarfagarðar,64.153822,-21.869633,Skarfagörðum,Skarfagarða
+90000030,Þjóðskjalasafnið,Þjóðskjalasafnið,64.142627,-21.90634,Þjóðskjalasafninu,Þjóðskjalasafnsins
+90000031,Gamla sjónvarpshúsið,Gamla sjónvarpshúsið,64.140661,-21.896676,Gamla sjónvarpshúsinu,Gamla sjónvarpshússins
+90000032,Nordica,Nordica,64.140142,-21.887948,Nordica,Nordica
+90000033,Laugardalshöll,Laugardalshöll,64.138023,-21.87757,Laugardalshöll,Laugardalshallar
+90000034,Orkuhúsið,Orkuhúsið,64.135553,-21.873334,Orkuhúsinu,Orkuhússins
+90000036,Teigar,Teigar,64.144585,-21.892053,Teigum,Teiga
+90000037,Tún,Tún,64.143826,-21.892754,Túni,Túns
+90000038,Fen,Fen,64.129481,-21.863616,Feni,Fens
+90000039,Mörkin,Mörkin,64.129537,-21.863101,Mörkinni,Markarinnar
+90000040,Nökkvavogur,Nökkvavogur,64.132949,-21.85522,Nökkvavogi,Nökkvavogs
+90000041,Glæsibær,Glæsibær,64.133503,-21.869105,Glæsibæ,Glæsibæjar
+90000042,Glæsibær,Glæsibær,64.132639,-21.868289,Glæsibæ,Glæsibæjar
+90000044,Gnoðarvogur / Ljósheimar,Ljósheimar,64.13203,-21.863387,Ljósheimum,Ljósheima
+90000045,Glæsibær,Glæsibær,64.133901,-21.867151,Glæsibæ,Glæsibæjar
+90000046,Fjölskyldu og húsdýragarðurinn,Fjölskyldu og húsdýragarðurinn,64.136435,-21.874203,Fjölskyldu- og húsdýragarðinum,Fjölskyldu- og húsdýragarðsins
+90000047,Laugardalshöll,Laugardalshöll,64.139196,-21.879543,Laugardalshöll,Laugardalshallar
+90000048,Nordica,Nordica,64.140317,-21.889824,Nordica,Nordica
+90000049,Hátún,Hátún,64.141195,-21.898187,Hátúni,Hátúns
+90000050,Fíladelfía,Fíladelfía,64.142695,-21.905553,Fíladelfíu,Fíladelfíu
+90000051,Klettagarðar / Skarfagarðar,Skarfagarðar,64.153716,-21.869696,Skarfagörðum,Skarfagarða
+90000052,Barónsstígur,Barónsstígur,64.144475,-21.918978,Barónsstíg,Barónsstígs
+90000053,Frakkastígur,Frakkastígur,64.145671,-21.92501,Frakkastíg,Frakkastígs
+90000054,Þjóðleikhúsið,Þjóðleikhúsið,64.146842,-21.930941,Þjóðleikhúsinu,Þjóðleikhússins
+90000055,Lækjartorg,Lækjartorg,64.147465,-21.936231,Lækjartorgi,Lækjartorgs
+90000056,Ráðhúsið,Ráðhúsið,64.14656,-21.942414,Ráðhúsinu,Ráðhússins
+90000057,Ráðhúsið,Ráðhúsið,64.146262,-21.941607,Ráðhúsinu,Ráðhússins
+90000061,Mýrargata,Mýrargata,64.151683,-21.949006,Mýrargötu,Mýrargötu
+90000062,Grandagarður,Grandagarður,64.153109,-21.949784,Grandagarði,Grandagarðs
+90000063,Grunnslóð,Grunnslóð,64.154464,-21.947669,Grunnslóð,Grunnslóðar
+90000064,Fiskislóð,Fiskislóð,64.155849,-21.945205,Fiskislóð,Fiskislóðar
+90000068,Stekkjarbakki,Stekkjarbakki,64.107755,-21.841087,Stekkjarbakka,Stekkjarbakka
+90000069,Arnarbakki,Arnarbakki,64.104746,-21.835345,Arnarbakka,Arnarbakka
+90000071,Rangársel,Rangársel,64.098158,-21.84683,Rangárseli,Rangársels
+90000072,Rangársel,Rangársel,64.098068,-21.846626,Rangárseli,Rangársels
+90000073,Eyjabakki,Eyjabakki,64.110278,-21.828902,Eyjabakka,Eyjabakka
+90000074,Dvergabakki,Dvergabakki,64.110315,-21.834713,Dvergabakka,Dvergabakka
+90000075,Mjódd,Mjódd,64.109702,-21.842643,Mjódd,Mjóddar
+90000076,Víkin,Víkin,64.120518,-21.854944,Víkinni,Víkurinnar
+90000077,Bústaðakirkja,Bústaðakirkja,64.120819,-21.860312,Bústaðakirkju,Bústaðakirkju
+90000078,Ásgarður Fossvogi,Ásgarður Fossvogi,64.121407,-21.865543,Ásgarði Fossvogi,Ásgarðs Fossvogi
+90000079,Grímsbær,Grímsbær,64.122632,-21.876022,Grímsbæ,Grímsbæjar
+90000080,Furugerði,Furugerði,64.123416,-21.883334,Furugerði,Furugerðis
+90000081,Borgarspítalinn,Borgarspítalinn,64.124171,-21.888175,Borgarspítalanum,Borgarspítalans
+90000083,RÚV,RÚV,64.125811,-21.888448,RÚV,RÚV
+90000084,RÚV,RÚV,64.125855,-21.887883,RÚV,RÚV
+90000085,Glæsibær,Glæsibær,64.133969,-21.866965,Glæsibæ,Glæsibæjar
+90000086,Stóragerði,Stóragerði,64.131416,-21.883033,Stóragerði,Stóragerðis
+90000087,Miðbær,Miðbær,64.133428,-21.882668,Miðbæ,Miðbæjar
+90000088,Háaleitisbraut / Múlar,Múlar,64.136689,-21.887231,Múlum,Múla
+90000089,Lágmúli,Lágmúli,64.137863,-21.891022,Lágmúla,Lágmúla
+90000090,Háteigsvegur / Skipholt,Skipholt,64.137294,-21.898216,Skipholti,Skipholts
+90000091,Háteigskirkja,Háteigskirkja,64.138127,-21.904177,Háteigskirkju,Háteigskirkju
+90000092,Háteigsvegur / Langahlíð,Langahlíð,64.138844,-21.909262,Lönguhlíð,Lönguhlíðar
+90000093,Rauðarárstígur,Rauðarárstígur,64.140247,-21.915138,Rauðarárstíg,Rauðarárstígs
+90000094,Þjóðminjasafnið,Þjóðminjasafnið,64.142291,-21.949049,Þjóðminjasafninu,Þjóðminjasafnsins
+90000096,Meistaravellir / Grandavegur,Grandavegur,64.14791,-21.960201,Grandavegi,Grandavegar
+90000097,Meistaravellir / Flyðrugrandi,Flyðrugrandi,64.147192,-21.963691,Flyðrugranda,Flyðrugranda
+90000098,KR,KR,64.146041,-21.965255,KR,KR
+90000099,Kaplaskjólsvegur / Ægissíða,Ægissíða,64.144987,-21.969866,Ægissíðu,Ægissíðu
+90000114,Kaplaskjól,Kaplaskjól,64.144683,-21.97099,Kaplaskjóli,Kaplaskjóls
+90000115,KR,KR,64.146022,-21.96482,KR,KR
+90000116,Meistaravellir,Meistaravellir,64.147147,-21.963372,Meistaravöllum,Meistaravalla
+90000117,Meistaravellir / Grandavegur,Grandavegur,64.147845,-21.959979,Grandavegi,Grandavegar
+90000119,Rauðarárstígur,Rauðarárstígur,64.140139,-21.915417,Rauðarárstíg,Rauðarárstígs
+90000120,Háteigsvegur / Langahlíð,Langahlíð,64.138606,-21.908553,Lönguhlíð,Lönguhlíðar
+90000121,Háteigskirkja,Háteigskirkja,64.137992,-21.903821,Háteigskirkju,Háteigskirkju
+90000122,Háteigsvegur / Bólstaðarhlíð,Bólstaðarhlíð,64.137245,-21.898562,Bólstaðarhlíð,Bólstaðarhlíðar
+90000124,Háaleitisbraut / Lágmúli,Lágmúli,64.137737,-21.89164,Lágmúla,Lágmúla
+90000125,Háaleitisbraut / Mýri,Mýri,64.136179,-21.887205,Mýri,Mýrar
+90000126,Miðbær,Miðbær,64.133848,-21.883877,Miðbæ,Miðbæjar
+90000127,Fellsmúli,Fellsmúli,64.131478,-21.883643,fellsmúla,fellsmúla
+90000129,Selásbraut / Þverás,Þverás,64.102916,-21.783692,Þverási,Þveráss
+90000132,Borgarspítalinn,Borgarspítalinn,64.123797,-21.88669,Borgarspítalanum,Borgarspítalans
+90000133,Eyrarland,Eyrarland,64.123012,-21.881728,Eyrarlandi,Eyrarlands
+90000134,Grímsbær,Grímsbær,64.122275,-21.874306,Grímsbæ,Grímsbæjar
+90000135,Ásgarður Fossvogi,Ásgarður Fossvogi,64.121175,-21.864596,Ásgarði Fossvogi,Ásgarðs Fossvogi
+90000136,Bústaðakirkja,Bústaðakirkja,64.12046,-21.858523,Bústaðakirkju,Bústaðakirkju
+90000137,Víkin,Víkin,64.120418,-21.852499,Víkinni,Víkurinnar
+90000138,Blesugróf,Blesugróf,64.117293,-21.844929,Blesugróf,Blesugrófar
+90000139,Dvergabakki,Dvergabakki,64.110215,-21.834442,Dvergabakka,Dvergabakka
+90000140,Eyjabakki,Eyjabakki,64.110164,-21.82805,Eyjabakka,Eyjabakka
+90000141,Hólabrekkuskóli,Hólabrekkuskóli,64.108002,-21.817555,Hólabrekkuskóla,Hólabrekkuskóla
+90000142,Sogavegur / Bústaðavegur,Bústaðavegur,64.120923,-21.853696,Bústaðavegi,Bústaðavegar
+90000143,Sogavegur / Bústaðavegur,Bústaðavegur,64.120938,-21.853898,Bústaðavegi,Bústaðavegar
+90000144,Arnarbakki / Leirubakki,Leirubakki,64.104907,-21.835333,Leirubakka,Leirubakka
+90000145,Stekkjarbakki,Stekkjarbakki,64.108241,-21.840572,Stekkjarbakka,Stekkjarbakka
+90000146,Borgarspítali,Borgarspítali,64.123007,-21.8916,Borgarspítala,Borgaspítala
+90000148,Hádegismóar,Hádegismóar,64.113864,-21.776368,Hádegismóum,Hádegismóa
+90000150,Sogavegur / Grundargerði,Grundargerði,64.127956,-21.870843,Grundargerði,Grundargerðis
+90000151,Elliðaárdalur,Elliðaárdalur,64.118984,-21.845509,Elliðaárdal,Elliðaárdals
+90000154,Bæjarháls,Bæjarháls,64.120681,-21.808814,Bæjarhálsi,Bæjarháls
+90000155,Vogar,Vogar,64.134956,-21.849685,Vogum,Voga
+90000156,Holtagarðar,Holtagarðar,64.141338,-21.850282,Holtagörðum,Holtagarða
+90000157,Sæbraut / Sægarðar,Sægarðar,64.143242,-21.852083,Sægörðum,Sægarða
+90000158,Barðastaðir,Barðastaðir,64.156867,-21.750617,Barðastöðum,Barðastaða
+90000159,Sæbraut / Sægarðar,Sægarðar,64.142991,-21.852385,Sægörðum,Sægarða
+90000160,Sundagarðar,Sundagarðar,64.150578,-21.871116,Sundagörðum,Sundagarða
+90000161,Sogavegur / Akurgerði,Akurgerði,64.128537,-21.874256,Akurgerði,Akurgerðis
+90000162,Laugarnestangi,Laugarnestangi,64.151443,-21.882252,Laugarnestanga,Laugarnestanga
+90000163,Kirkjusandur,Kirkjusandur,64.149201,-21.884996,Kirkjusandi,Kirkjusands
+90000164,Laugarnesvegur / Borgartún,Borgartún,64.146968,-21.888726,Borgartúni,Borgartúns
+90000165,Hótel Cabin,Hótel Cabin,64.146184,-21.89642,Hóteli Cabin,Hótels Cabin
+90000166,Nóatún,Nóatún,64.144011,-21.902372,Nóatúni,Nóatúns
+90000167,Hofsvallagata / Hávallagata,Hávallagata,64.147753,-21.951418,Hávallagötu,Hávallagötu
+90000168,Hofsvallagata / Hringbraut,Hringbraut,64.146702,-21.954384,Hringbraut,Hringbrautar
+90000169,Hofsvallagata / Einimelur,Einimelur,64.145408,-21.958063,Einimel,Einimels
+90000170,Hagi,Hagi,64.143855,-21.962456,Haga,Haga
+90000171,Melaskóli,Melaskóli,64.142179,-21.958519,Melaskóla,Melaskóla
+90000172,Hjarðarhagi / Vesturgarður,Vesturgarður,64.141748,-21.961682,Vesturgarði,Vesturgarðs
+90000173,Hjarðarhagi / Dunhagi,Dunhagi,64.138791,-21.958537,Dunhaga,Dunhaga
+90000174,Íslensk Erfðagreining,Íslensk Erfðagreining,64.135388,-21.944294,Íslenskri Erfðagreiningu,Íslenskrar Erfðagreiningar
+90000175,Íslensk Erfðagreining,Íslensk Erfðagreining,64.135558,-21.943653,Íslenskri Erfðagreiningu,Íslenskrar Erfðagreiningar
+90000176,Hofsvallagata / Ægisíða,Ægisíða,64.14261,-21.965501,Ægissíðu,Ægissíðu
+90000177,Reykjavíkurflugvöllur,Reykjavíkurflugvöllur,64.132628,-21.949453,Reykjavíkurflugvelli,Reykjavíkurflugvallar
+90000178,Reykjavíkurflugvöllur,Reykjavíkurflugvöllur,64.132695,-21.949187,Reykjavíkurflugvelli,Reykjavíkurflugvallar
+90000179,Hofsvallagata / Hringbraut,Hringbraut,64.146712,-21.95403,Hringbraut,Hringbrautar
+90000180,Hofsvallagata / Hávallagata,Hávallagata,64.147682,-21.951281,Hávallagötu,Hávallagötu
+90000181,Nóatún,Nóatún,64.144046,-21.902109,Nóatúni,Nóatúns
+90000182,Hótel Cabin,Hótel Cabin,64.146085,-21.895788,Hótel Cabin,Hótels Cabin
+90000183,Laugarnesvegur / Borgartún,Borgartún,64.146955,-21.888467,Borgartúni,Borgartúns
+90000184,Laugarnesvegur / Kirkjusandur,Kirkjusandur,64.149219,-21.884687,Kirkjusandi,Kirkjusands
+90000185,Laugarnestangi,Laugarnestangi,64.150978,-21.882624,Laugarnestanga,Laugarnesanga
+90000187,Dalbraut,Dalbraut,64.150644,-21.875004,Dalbraut,Dalbrautar
+90000188,Hrafnista,Hrafnista,64.149018,-21.867406,Hrafnistu,Hrafnistu
+90000190,Bakkastaðir / Barðastaðir,Barðastaðir,64.158095,-21.751087,Barðastöðum,Barðastaða
+90000191,Sund,Sund,64.140213,-21.850696,Sundum,Sunda
+90000192,Hamrahlíð,Hamrahlíð,64.130847,-21.902054,Hamrahlíð,Hamrahlíðar
+90000193,Vogar,Vogar,64.133594,-21.850187,Vogum,Voga
+90000198,Straumur / Birtingakvísl,Birtingakvísl,64.123344,-21.821933,Birtingakvísl,Birtingakvíslar
+90000200,Skeljanes,Skeljanes,64.126021,-21.94915,Skeljanesi,Skeljaness
+90000201,Skeljanes / Bauganes,Bauganes,64.128043,-21.946858,Bauganesi,Bauganess
+90000202,Skeljanes / Bauganes,Bauganes,64.12802,-21.947071,Bauganesi,Bauganess
+90000203,Einarsnes / Bauganes,Bauganes,64.130487,-21.953125,Bauganesi,Bauganess
+90000204,Þorragata,Þorragata,64.132767,-21.952678,Þorragötu,Þorragötu
+90000205,Þorragata,Þorragata,64.132907,-21.953046,Þorragötu,Þorragötu
+90000206,Skerjagarðar,Skerjagarðar,64.13562,-21.956062,Skerjagörðum,Skerjagarða
+90000207,Stúdentagarðar,Stúdentagarðar,64.137293,-21.954183,Stúdentagörðum,Stúdentagarða
+90000208,Hjarðarhagi / Vesturgarður,Vesturgarður,64.141753,-21.961426,Vesturgarði,Vesturgarðs
+90000209,Hótel Saga,Hótel Saga,64.141205,-21.954022,Hótel Sögu,Hótel Sögu
+90000210,Þjóðarbókhlaðan,Þjóðarbókhlaðan,64.14352,-21.951141,Þjóðarbókhlöðunni,Þjóðarbókhlöðunnar
+90000211,Héðinsgata,Héðinsgata,64.152135,-21.881371,Héðinsgötu,Héðinsgötu
+90000212,Höfðatorg,Höfðatorg,64.145339,-21.907462,Höfðatorgi,Höfðatorgs
+90000213,Laugardalslaug,Laugardalslaug,64.146651,-21.879681,Laugardalslaug,Laugardalslaugar
+90000214,Brúnavegur / Laugarásvegur,Laugarásvegur,64.146765,-21.872313,Laugarásvegi,Laugarásvegar
+90000215,Hrafnista,Hrafnista,64.146572,-21.866615,Hrafnistu,Hrafnistu
+90000216,Austurbrún / Dragavegur,Dragavegur,64.145149,-21.864176,Dragavegi,Dragavegar
+90000217,Austurbrún / Hólsvegur,Hólsvegur,64.143991,-21.864578,Hólsvegi,Hólsvegar
+90000218,Langholtsvegur / Hólsvegur,Hólsvegur,64.142426,-21.860592,Hólsvegi,Hólsvegar
+90000219,Sunnutorg,Sunnutorg,64.141077,-21.861326,Sunnutorgi,Sunnutorgs
+90000220,Langholtsvegur / Holtavegur,Holtavegur,64.138677,-21.859358,Holtavegi,Holtavegar
+90000221,Langholtskirkja,Langholtskirkja,64.13609,-21.856742,Langholtskirkju,Langholtskirkju
+90000222,Skeiðarvogur / Langholtsvegur,Langholtsvegur,64.133346,-21.854508,Langholtsvegi,Langholtsvegar
+90000223,Menntaskólinn við Sund / MS,MS,64.131214,-21.861475,MS,MS
+90000224,Grensásvegur / Ármúli,Ármúli,64.132622,-21.873461,Ármúla,Ármúla
+90000225,Grensás,Grensás,64.130304,-21.875175,Grensási,Grensáss
+90000226,Háskóli Íslands,Háskóli Íslands,64.140344,-21.950761,Háskóla Íslands,Háskóla Íslands
+90000227,Þjóðminjasafnið,Þjóðminjasafnið,64.142334,-21.948415,Þjóðminjasafninu,Þjóðminjasafnsins
+90000228,Sogavegur / Háagerði,Háagerði,64.126182,-21.864211,Háagerði,Háagerðis
+90000229,Sogavegur / Borgargerði,Borgargerði,64.124852,-21.859741,Borgargerði,Borgargerðis
+90000230,Sogavegur / Tunguvegur,Tunguvegur,64.122957,-21.855559,Tunguvegi,Tunguvegar
+90000231,Borgarspítali,Borgarspítali,64.123247,-21.891515,Borgarspítala,Borgarspítala
+90000232,Sléttuvegur,Sléttuvegur,64.123625,-21.894419,Sléttuvegi,Sléttuvegar
+90000233,Hjarðarhagi / Dunhagi,Dunhagi,64.13876,-21.957975,Dunhaga,Dunhaga
+90000234,Sogavegur / Tunguvegur,Tunguvegur,64.123034,-21.855433,Tunguvegi,Tunguvegar
+90000235,Sogavegur / Borgargerði,Borgargerði,64.124974,-21.859756,Borgargerði,Borgargerðis
+90000236,Sogavegur / Háagerði,Háagerði,64.126677,-21.865429,Háagerði,Háagerðis
+90000237,Sogavegur / Grundargerði,Grundargerði,64.128128,-21.871257,Grundargerði,Grundargerðis
+90000238,Sogavegur / Akurgerði,Akurgerði,64.128591,-21.874015,Akurgerði,Akurgerðis
+90000239,Grensás,Grensás,64.130322,-21.874595,Grensási,Grensáss
+90000240,Grensásvegur / Skeifan,Skeifan,64.132383,-21.873166,Skeifunni,Skeifunnar
+90000241,Gnoðarvogur / Ljósheimar,Ljósheimar,64.131992,-21.863696,Ljósheimum,Ljósheima
+90000242,Menntaskólinn við Sund / MS,MS,64.131255,-21.86071,MS,MS
+90000243,Langholtskirkja,Langholtskirkja,64.13609,-21.856421,Langholtskirkju,Langholtskirkju
+90000244,Langholtsvegur / Holtavegur,Holtavegur,64.138973,-21.859317,Holtavegi,Holtavegar
+90000245,Sunnutorg,Sunnutorg,64.141084,-21.861124,Sunnutorgi,Sunnutorgs
+90000246,Háskólabíó,Háskólabíó,64.139741,-21.951911,Háskólabíói,Háskólabíós
+90000247,Austurbrún / Hólsvegur,Hólsvegur,64.143487,-21.864643,Hólsvegi,Hólsvegar
+90000248,Austurbrún / Dragavegur,Dragavegur,64.145523,-21.863876,Dragavegi,Dragavegar
+90000249,Hrafnista,Hrafnista,64.146758,-21.867253,Hrafnistu,Hrafnistu
+90000250,Sundlaugarvegur / Laugarásvegur,Laugarásvegur,64.146877,-21.873929,Laugarásvegi,Laugarásvegar
+90000251,Laugardalslaug,Laugardalslaug,64.146806,-21.879884,Laugardalslaug,Laugardalslaugar
+90000252,Höfðatorg,Höfðatorg,64.145431,-21.908257,Höfðatorgi,Höfðatorgs
+90000253,Héðinsgata,Héðinsgata,64.15219,-21.880973,Héðinsgötu,Héðinsgötu
+90000254,Þjóðarbókhlaðan,Þjóðarbókhlaðan,64.143485,-21.951392,Þjóðarbókhlöðunni,Þjóðarbókhlöðunnar
+90000255,Hagatorg,Hagatorg,64.142186,-21.953469,Hagatorgi,Hagatorgs
+90000256,Suðurgata / Hjarðarhagi,Hjarðarhagi,64.137371,-21.954611,Hjarðarhaga,Hjarðarhaga
+90000257,Skerjagarðar,Skerjagarðar,64.135383,-21.956832,Skerjagörðum,Skerjagarða
+90000258,Einarsnes / Bauganes,Bauganes,64.130376,-21.952942,Bauganesi,Bauganess
+90000259,Kjarvalsstaðir,Kjarvalsstaðir,64.138239,-21.911937,Kjarvalsstöðum,Kjarvalsstaða
+90000260,Straumur / Nethylur,Nethylur,64.122248,-21.814985,Nethyl,Nethyls
+90000261,Straumur / Birtingakvísl,Birtingakvísl,64.123417,-21.822096,Birtingakvísl,Birtingakvíslar
+90000262,Gullinbrú,Gullinbrú,64.132432,-21.814488,Gullinbrú,Gullinbrúar
+90000263,Kjarvalsstaðir,Kjarvalsstaðir,64.138357,-21.912098,Kjarvalsstöðum,Kjarvalsstaða
+90000264,Ingunnarskóli,Ingunnarskóli,64.126645,-21.757383,Ingunnarskóla,Ingunnarskóla
+90000265,Kristnibraut / Prestastígur,Prestastígur,64.126738,-21.750591,Prestastíg,Prestastígs
+90000266,Gvendargeisli / Þórðarsveigur,Þórðarsveigur,64.126209,-21.743942,Þórðarsveigi,Þórðarsveigs
+90000267,Austurver,Austurver,64.127986,-21.886471,Austurveri,Austurvers
+90000268,Borgarleikhús,Borgarleikhús,64.128443,-21.895755,Borgarleikhúsi,Borgarleikhúss
+90000269,Gvendargeisli / Sæmundarsel,Sæmundarsel,64.125863,-21.739942,Sæmundarseli,Sæmundarsels
+90000270,Menntaskólinn við Hamrahlíð / MH,MH,64.131308,-21.907268,MH,MH
+90000271,Langahlíð / Mávahlíð,Mávahlíð,64.133428,-21.911563,Mávahlíð,Mávahlíðar
+90000272,Langahlíð,Langahlíð,64.135537,-21.90984,Lönguhlíð,Lönguhlíðar
+90000273,Flókagata,Flókagata,64.137356,-21.908407,Flókagötu,Flókagötu
+90000274,Melaskóli,Melaskóli,64.142334,-21.958472,Melaskóla,Melaskóla
+90000275,Ægisíða / Hofsvallagata,Hofsvallagata,64.143521,-21.966996,Hofsvallagötu,Hofsvallagötu
+90000276,Kaplaskjól,Kaplaskjól,64.144942,-21.97167,Kaplaskjóli,Kaplaskjóls
+90000277,Öldugrandi,Öldugrandi,64.150563,-21.981538,Öldugranda,Öldugranda
+90000278,Seilugrandi,Seilugrandi,64.149861,-21.976382,Seilugranda,Seilugranda
+90000279,Keilugrandi,Keilugrandi,64.149581,-21.971682,Keilugranda,Keilugranda
+90000280,Boðagrandi,Boðagrandi,64.149894,-21.967355,Boðagranda,Boðagranda
+90000281,JL húsið,JL húsið,64.150306,-21.959982,JL húsinu,JL hússins
+90000282,Flókagata,Flókagata,64.137408,-21.908803,Flókagötu,Flókagötu
+90000283,Langahlíð,Langahlíð,64.135505,-21.910372,Lönguhlíð,Lönguhlíðar
+90000284,Langahlíð / Mávahlíð,Mávahlíð,64.133426,-21.911883,Mávahlíð,Mávahlíðar
+90000285,Menntaskólinn við Hamrahlíð / MH,MH,64.131194,-21.90699,MH,MH
+90000286,Hamrahlíð,Hamrahlíð,64.130705,-21.901821,Hamrahlíð,Hamrahlíðar
+90000287,Verzló,Verzló,64.128162,-21.895203,Verzló,Verzló
+90000288,Austurver,Austurver,64.12895,-21.885133,Austurveri,Austurvers
+90000289,Þúsöld,Þúsöld,64.128637,-21.767074,Þúsöld,Þúsaldar
+90000290,Kristnibraut / Maríubaugur,Maríubaugur,64.127098,-21.765627,Maríubaugi,Maríubaugs
+90000291,Korpuskóli,Korpuskóli,64.157483,-21.755442,Korpuskóla,Korpuskóla
+90000292,Snorrabraut,Snorrabraut,64.138482,-21.921249,Snorrabraut,Snorrabrautar
+90000293,Þúsöld / Húsasmiðjan,Húsasmiðjan,64.130265,-21.762504,Húsasmiðjunni,Húsasmiðjunnar
+90000294,Þúsöld / Húsasmiðjan,Húsasmiðjan,64.130176,-21.762267,Húsasmiðjunni,Húsasmiðjunnar
+90000295,Hlemmur,Hlemmur,64.143253,-21.914211,Hlemmi,Hlemms
+90000296,Háskóli Íslands,Háskóli Íslands,64.141782,-21.946535,Háskóla Íslands,Háskóla Íslands
+90000297,BSÍ,BSÍ,64.138249,-21.93294,BSÍ,BSÍ
+90000298,Landspítalinn,Landspítalinn,64.137377,-21.927222,Landspítalanum,Landspítalans
+90000299,Krókháls / Suðurlandsvegur,Suðurlandsvegur,64.121986,-21.782739,Suðurlandsvegi,Suðurlandsvegar
+90000301,Perlan,Perlan,64.130145,-21.914348,Perlunni,Perlunnar
+90000302,Veðurstofan,Veðurstofan,64.12699,-21.907186,Veðurstofunni,Veðurstofunnar
+90000303,Rafstöðvarvegur,Rafstöðvarvegur,64.123938,-21.840328,Rafstöðvarvegi,Rafstöðvarvegar
+90000304,Fylkisvegur,Fylkisvegur,64.114242,-21.790704,Fylkisvegi,Fylkisvegar
+90000305,Fylkisvegur,Fylkisvegur,64.11428,-21.790484,Fylkisvegi,Fylkisvegar
+90000306,Stórhöfði / Breiðhöfði,Breiðhöfði,64.12877,-21.823604,Breiðhöfða,Breiðhöfða
+90000307,Krókháls / Suðurlandsvegur,Suðurlandsvegur,64.121966,-21.782289,Suðurlandsvegi,Suðurlandsvegar
+90000308,Stórhöfði / Höfðabakki,Höfðabakki,64.128908,-21.814619,Höfðabakka,Höfðabakka
+90000311,Krókháls / Hálsabraut,Hálsabraut,64.121526,-21.795499,Hálsabraut,Hálsabrautar
+90000312,Krókháls / Stuðlaháls,Stuðlaháls,64.121594,-21.790839,Stuðlahálsi,Stuðlaháls
+90000315,Hraunsás,Hraunsás,64.113179,-21.788441,Hraunsási,Hraunsáss
+90000316,Rofabær / Brekkubær,Brekkubær,64.1155,-21.791858,Brekkubæ,Brekkubæjar
+90000317,Árbæjarskóli,Árbæjarskóli,64.116201,-21.796686,Árbæjarskóla,Árbæjarskóla
+90000318,Rofabær / Hábær,Hábær,64.116903,-21.801745,Hábæ,Hábæjar
+90000319,Rofabær / Hraunbær,Hraunbær,64.117902,-21.808532,Hraunbæ,Hraunbæjar
+90000320,Hraunbær,Hraunbær,64.119824,-21.807887,Hraunbæ,Hraunbæjar
+90000321,Norðlingabraut / Helluvað,Helluvað,64.102624,-21.766771,Helluvaði,Helluvaðs
+90000322,Bugða / Kambavað,Kambavað,64.100787,-21.765827,Kambavaði,Kambavaðs
+90000323,Elliðabraut / Bugða,Bugða,64.097712,-21.779661,Bugðu,Bugðu
+90000324,Leiti,Leiti,64.125435,-21.896738,Leiti,Leitis
+90000325,Veðurstofan,Veðurstofan,64.127259,-21.907243,Veðurstofunni,Veðurstofunnar
+90000326,Perlan,Perlan,64.130237,-21.913789,Perlunni,Perlunnar
+90000327,Einarsnes,Einarsnes,64.129536,-21.949619,Einarsnesi,Einarsness
+90000329,Einarsnes,Einarsnes,64.129624,-21.949739,Einarsnesi,Einarsness
+90000330,Landspítalinn,Landspítalinn,64.13756,-21.927844,Landspítalanum,Landspítalans
+90000331,BSÍ,BSÍ,64.138591,-21.934552,BSÍ,BSÍ
+90000332,Háskóli Íslands,Háskóli Íslands,64.14222,-21.946825,Háskóla Íslands,Háskóla Íslands
+90000333,Nauthóll - HR,Nauthóll - HR,64.124697,-21.928433,Nauthóli - HR,Nauthóls - HR
+90000334,Stórhöfði / Höfðabakki,Höfðabakki,64.129027,-21.814546,Höfðabakka,Höfðabakka
+90000335,Bugða / Lindarvað,Lindarvað,64.100203,-21.770962,Lindarvaði,Lindarvaðs
+90000336,Bugða / Móvað,Móvað,64.098996,-21.773999,Móvaði,Móvaðs
+90000338,Bugða / Reiðvað,Reiðvað,64.098217,-21.776816,Reiðvaði,Reiðvaðs
+90000342,Stórhöfði / Breiðhöfði,Breiðhöfði,64.128853,-21.82392,Breiðhöfða,Breiðhöfða
+90000343,Suðurfell,Suðurfell,64.099588,-21.82799,Suðurfelli,Suðurfells
+90000344,Norðurfell / Æsufell,Æsufell,64.101751,-21.830021,Æsufelli,Æsufells
+90000345,Vesturberg / Norðurfell,Norðurfell,64.103687,-21.824862,Norðurfelli,Norðurfells
+90000346,Vesturberg,Vesturberg,64.105647,-21.823142,Vesturbergi,Vesturbergs
+90000347,Vesturberg / Suðurhólar,Suðurhólar,64.107929,-21.821143,Suðurhólum,Suðurhóla
+90000348,Árbæjarsafn,Árbæjarsafn,64.118633,-21.813898,Árbæjarsafni,Árbæjarsafns
+90000349,Strengur / Laxakvísl,Laxakvísl,64.121233,-21.817246,Laxakvísl,Laxakvíslar
+90000350,Strengur / Sílakvísl,Sílakvísl,64.121369,-21.827198,Sílakvísl,Sílakvíslar
+90000351,Straumur / Nesti,Nesti,64.123209,-21.825763,Nesti,Nestis
+90000352,Elliðabraut / Sandavað,Sandavað,64.099133,-21.780392,Sandavaði,Sandavaðs
+90000353,Bíldshöfði / Vagnshöfði,Vagnshöfði,64.125553,-21.819096,Vagnhöfða,Vagnhöfða
+90000354,Bíldshöfði / Höfðabakki,Höfðabakki,64.12564,-21.813708,Höfðabakka,Höfðabakka
+90000355,Höfðabakki / Dvergshöfði,Dvergshöfði,64.127211,-21.811826,Dvergshöfða,Dvergshöfða
+90000356,Funafold,Funafold,64.13638,-21.806745,Funafold,Funafoldar
+90000357,Fjallkonuvegur / Hverafold,Hverafold,64.135579,-21.801782,Hverafold,Hverafoldar
+90000358,Fjallkonuvegur / Frostafold,Frostafold,64.134635,-21.797646,Frostafold,Frostafoldar
+90000359,Fjallkonuvegur / Logafold,Logafold,64.135548,-21.793114,Logafold,Logafoldar
+90000360,Fjallkonuvegur / Reykjafold,Reykjafold,64.137719,-21.790887,Reykjafold,Reykjafoldar
+90000361,Fjallkonuvegur / Gagnvegur,Gagnvegur,64.139241,-21.789273,Gagnvegi,Gagnvegar
+90000362,Gagnvegur / Dalhús,Dalhús,64.139278,-21.784549,Dalhúsum,Dalhúsa
+90000363,Gagnvegur / Vallarhús,Vallarhús,64.139608,-21.780282,Vallarhúsum,Vallarhúsa
+90000364,Gagnvegur / Brekkuhús,Brekkuhús,64.138552,-21.776655,Brekkuhúsum,Brekkuhúsa
+90000365,Vættaborgir,Vættaborgir,64.154346,-21.784898,Vættaborgum,Vættaborga
+90000366,Spöngin,Spöngin,64.150208,-21.791357,Spönginni,Spangarinnar
+90000367,Borgavegur,Borgavegur,64.14931841,-21.78744406,Borgavegi,Borgavegar
+90000368,Langirimi / Mosarimi,Mosarimi,64.145972,-21.787892,Mosaríma,Mosarima
+90000369,Miðgarður,Miðgarður,64.144487,-21.791621,Miðgarði,Miðgarðs
+90000370,Langirimi / Flétturimi,Flétturimi,64.142182,-21.792563,Flétturima,Flétturima
+90000371,Langirimi / Hallsvegur,Hallsvegur,64.140847,-21.794042,Hallsvegi,Hallsvegar
+90000373,Lokinhamrar / Vegghamrar,Vegghamrar,64.13843331,-21.80849543,Vegghömrum,Vegghamra
+90000374,Höfðar,Höfðar,64.126982,-21.812224,Höfðum,Höfða
+90000375,Norðlingabraut / Bjallavað,Bjallavað,64.102854,-21.776629,Bjallavaði,Bjallavaðs
+90000376,Straumur / Nesti,Nesti,64.123281,-21.825963,Nesti,Nestis
+90000377,Strengur / Sílakvísl,Sílakvísl,64.121292,-21.82718,Sílakvísl,Sílakvíslar
+90000378,Strengur / Laxakvísl,Laxakvísl,64.121186,-21.817062,Laxakvísl,Laxakvíslar
+90000379,Árbæjarsafn,Árbæjarsafn,64.119353,-21.813471,Árbæjarsafni,Árbæjarsafns
+90000380,Vesturberg / Suðurhólar,Suðurhólar,64.108298,-21.82107,Suðurhólum,Suðurhóla
+90000381,Vesturberg,Vesturberg,64.105379,-21.823632,Vesturbergi,Vesturbergs
+90000382,Vesturberg / Norðurfell,Norðurfell,64.103132,-21.825614,Norðurfelli,Norðurfells
+90000383,Norðurfell / Æsufell,Æsufell,64.101747,-21.830307,Æsufelli,Æsufells
+90000384,Suðurfell,Suðurfell,64.099575,-21.828262,Suðurfelli,Suðurfells
+90000385,Seljabraut / Flúðasel,Flúðasel,64.098345,-21.828419,Flúðaseli,Flúðasels
+90000386,Seljabraut,Seljabraut,64.099944,-21.830724,Seljabraut,Seljabrautar
+90000387,Seljabraut / Engjasel,Engjasel,64.102093,-21.833703,Engjaseli,Engjasels
+90000388,Lokinhamrar / Gerðhamrar,Gerðhamrar,64.13827236,-21.81631164,Gerðhömrum,Gerðhamra
+90000389,Seljabraut / Seljaskógar,Seljaskógar,64.103371,-21.835476,Seljaskógum,Seljaskóga
+90000390,Lokinhamrar / Dverghamrar,Dverghamrar,64.13685228,-21.81269258,Dverghömrum,Dverghamra
+90000391,Norðlingabraut / Ferjuvað,Ferjuvað,64.103829,-21.771664,Ferjuvaði,Ferjuvaðs
+90000394,Klettagarðar / Kænugarðar,Kænugarðar,64.151935,-21.864747,Kænugarði,Kænugarðs
+90000395,Skeifan,Skeifan,64.128503,-21.870422,Skeifunni,Skeifunnar
+90000396,Gerði,Gerði,64.126326,-21.85755,Gerði,Gerðis
+90000397,Norðlingabraut / Árvað,Árvað,64.101416,-21.778054,Árvaði,Árvaðs
+90000398,Hraunbær,Hraunbær,64.119799,-21.808087,Hraunbæ,Hraunbæjar
+90000399,Rofabær / Hraunbær,Hraunbær,64.117812,-21.808415,Hraunbæ,Hraunbæjar
+90000400,Rofabær / Hábær,Hábær,64.11686,-21.801618,Hábæ,Hábæjar
+90000401,Árbæjarskóli,Árbæjarskóli,64.116064,-21.796228,Árbæjarskóla,Árbæjarskóla
+90000402,Rofabær / Brekkubær,Brekkubær,64.115335,-21.791307,Brekkubæ,Brekkubæjar
+90000403,Hraunsás,Hraunsás,64.113026,-21.787925,Hraunsási,Hraunsáss
+90000404,Selásbraut / Næfurás,Næfurás,64.111407,-21.785881,Næfurási,Næfuráss
+90000405,Selásbraut / Reykás,Reykás,64.109463,-21.787354,Reykási,Reykáss
+90000406,Selásbraut / Sauðás,Sauðás,64.108063,-21.788401,Sauðási,Sauðáss
+90000407,Selásbraut / Vallarás,Vallarás,64.10549,-21.786624,Vallarási,Vallaráss
+90000408,Selásskóli,Selásskóli,64.105014,-21.783432,Selásskóla,Selásskóla
+90000409,Selásbraut / Vallarás,Vallarás,64.105809,-21.786807,Vallarási,Vallaráss
+90000410,Selásbraut / Skógarás,Skógarás,64.108103,-21.788205,Skógarási,Skógaráss
+90000411,Selásbraut / Reykás,Reykás,64.109719,-21.786949,Reykási,Reykáss
+90000412,Selásbraut / Næfurás,Næfurás,64.111586,-21.785536,Næfurási,Næfuráss
+90000413,Breiðhöfði / Ártún,Ártún,64.123605,-21.823946,Ártúni,Ártúns
+90000414,Gerði,Gerði,64.126724,-21.857774,Gerði,Gerðis
+90000415,Skeifan,Skeifan,64.128968,-21.871115,Skeifunni,Skeifunnar
+90000418,Korpúlfsstaðir,Korpúlfsstaðir,64.153683,-21.762822,Korpúlfsstöðum,Korpúlfsstaða
+90000419,Klettagarðar / Kænugarðar,Kænugarðar,64.152093,-21.865259,Kænugarði,Kænugarðs
+90000420,Barðastaðir,Barðastaðir,64.156749,-21.750936,Barðastöðum,Barðastaða
+90000421,Breiðhöfði / Ártún,Breiðhöfði,64.124564,-21.823576,Breiðhöfða,Breiðhöfða
+90000422,Heiðargerði,Heiðargerði,64.127855,-21.87691,Heiðargerði,Heiðargerðis
+90000423,Álmgerði,Álmgerði,64.124462,-21.879465,Álmgerði,Álmgerðis
+90000424,Jaðarsel / Jakasel,Jakasel,64.096286,-21.827762,Jakaseli,Jakasels
+90000425,Jaðarsel / Jórusel,Jórusel,64.094853,-21.830761,Jóruseli,Jórusels
+90000426,Jaðarsel / Klyfjasel,Klyfjasel,64.092737,-21.836882,Klyfjaseli,Klyfjasels
+90000427,Jaðarsel / Melsel,Melsel,64.093943,-21.841788,Melseli,Melsels
+90000428,Jaðarsel / Holtasel,Holtasel,64.096073,-21.845218,Holtaseli,Holtasels
+90000429,Hólmasel,Hólmasel,64.096551,-21.843836,Hólmaseli,Hólmasels
+90000431,Skógarsel / Stíflusel,Stíflusel,64.098761,-21.852779,Stífluseli,Stíflusels
+90000432,Skógarsel / Strandasel,Strandasel,64.100545,-21.857308,Strandaseli,Strandasels
+90000433,Íþróttamiðstöð ÍR,Íþróttamiðstöð ÍR,64.102522,-21.85006,Íþróttamiðstöð ÍR,Íþróttamiðstöðvar ÍR
+90000434,Skógarsel / Árskógar,Árskógar,64.104422,-21.84403,Árskógum,Árskóga
+90000435,Hæðargarður,Hæðargarður,64.124772,-21.878778,Hæðargarði,Hæðargarðs
+90000436,Jaðarsel / Seljabraut,Seljabraut,64.097732,-21.82784,Seljabraut,Seljabrautar
+90000437,Heiðargerði,Heiðargerði,64.12789,-21.876432,Heiðargerði,Heiðargerðis
+90000438,Korpúlfsstaðavegur / Brúnastaðir,Brúnastaðir,64.155023,-21.757956,Brúnastöðum,Brúnastaða
+90000439,Víkurvegur / Keldnaholt,Keldnaholt,64.139366,-21.771997,Keldnaholti,Keldnaholts
+90000440,Borgavegur / Víkurvegur,Víkurvegur,64.14496,-21.775592,Víkurvegi,Víkurvegar
+90000441,Korpuskóli,Korpuskóli,64.157507,-21.755284,Korpuskóla,Korpuskóla
+90000442,Bakkastaðir / Barðastaðir,Barðastaðir,64.158047,-21.750857,Barðastöðum,Barðastaða
+90000443,Korpúlfsstaðavegur / Brúnastaðir,Brúnastaðir,64.155091,-21.758423,Brúnastöðum,Brúnastaða
+90000444,Fellaskóli,Fellaskóli,64.101671,-21.822682,Fellaskóla,Fellaskóla
+90000445,Norðurfell / Austurberg,Austurberg,64.101979,-21.817126,Austurbergi,Austurbergs
+90000446,Gerðuberg,Gerðuberg,64.10466,-21.816776,Gerðubergi,Gerðubergs
+90000447,Suðurhólar / Austurberg,Austurberg,64.107773,-21.815871,Austurbergi,Austurbergs
+90000448,Suðurhólar / Þrastarhólar,Þrastarhólar,64.107739,-21.80942,Þrastarhólum,Þrastarhóla
+90000449,Norðurhólar / Stelkshólar,Stelkshólar,64.109273,-21.804421,Stelkshólum,Stelkshóla
+90000450,Norðurhólar / Smyrilshólar,Smyrilshólar,64.110244,-21.809901,Smyrilshólum,Smyrilshóla
+90000451,Vesturhólar / Hrafnhólar,Hrafnhólar,64.110558,-21.81539,Hrafnhólum,Hrafnhóla
+90000452,Vesturhólar / Fýlshólar,Fýlshólar,64.111675,-21.818467,Fýlshólum,Fýlshóla
+90000453,Vesturhólar / Höfðabakki,Höfðabakki,64.11029,-21.820872,Höfðabakka,Höfðabakka
+90000454,Vættaborgir,Vættaborgir,64.154411,-21.785038,Vættaborgum,Vættaborga
+90000455,Strætóvegur / Vættaborgir,Vættaborgir,64.152964,-21.785334,Vættaborgum,Vættaborga
+90000456,Gullinbrú / OLÍS,OLÍS,64.138306,-21.806982,OLÍS,OLÍS
+90000457,Selásskóli,Selásskóli,64.104935,-21.783863,Selásskóla,Selásskóla
+90000458,Klambratún,Klambratún,64.135752,-21.916084,Klambratúni,Klambratúns
+90000459,Sundagarðar,Sundagarðar,64.150767,-21.87136,Sundagörðum,Sundagarða
+90000460,Hlíðar,Hlíðar,64.1338,-21.903618,Hlíðum,Hlíða
+90000461,Kringlan,Kringlan,64.132227,-21.893581,Kringlunni,Kringlunnar
+90000462,Lokinhamrar / Sporhamrar,Sporhamrar,64.13964819,-21.81205244,Sporhömrum,Sporhamra
+90000465,Borgavegur / Sóleyjarimi,Sóleyjarimi,64.150447,-21.795546,Sóleyjarrima,Sóleyjarrima
+90000466,Borgir,Borgir,64.150812,-21.794536,Borgum,Borga
+90000467,Lokinhamrar / Bláhamrar,Bláhamrar,64.13704889,-21.81043079,Bláhömrum,Bláhamra
+90000468,Skólavegur,Skólavegur,64.148905,-21.779652,Skólavegi,Skólavegar
+90000469,Egilshöll,Egilshöll,64.148365,-21.771914,Egilshöll,Egilshallar
+90000470,Gullengi / Laufengi,Laufengi,64.146931,-21.779582,Laufengi,Laufengis
+90000471,Korpúlfsstaðir,Korpúlfsstaðir,64.153308,-21.764408,Korpúlfsstöðum,Korpúlfsstaða
+90000472,Gullengi / Borgavegur,Borgavegur,64.147073,-21.783,Borgavegi,Borgavegar
+90000473,Lokinhamrar / Vegghamrar,Vegghamrar,64.1385066,-21.80842066,Vegghömrum,Vegghamra
+90000474,Lokinhamrar / Sporhamrar,Sporhamrar,64.13975612,-21.81204288,Sporhömrum,Sporhamra
+90000475,Lokinhamrar / Leiðhamrar,Leiðhamrar,64.14061955,-21.81704467,Leiðhömrum,Leiðhamra
+90000476,Melavegur / Tröllaborgir,Tröllaborgir,64.154643,-21.791903,Tröllaborgum,Tröllaborga
+90000477,Melavegur / Goðaborgir,Goðaborgir,64.15389,-21.795382,Goðaborgum,Goðaborga
+90000478,Melavegur / Dofraborgir,Dofraborgir,64.153217,-21.796884,Dofraborgum,Dofraborga
+90000479,Borgir,Borgir,64.150762,-21.794848,Borgum,Borga
+90000480,Gullinbrú / OLÍS,OLÍS,64.137622,-21.808404,OLÍS,OLÍS
+90000481,Hlíðar,Hlíðar,64.134129,-21.903928,Hlíðum,Hlíða
+90000482,Lokinhamrar / Dverghamrar,Dverghamrar,64.13690804,-21.81259548,Dverghömrum,Dverghamra
+90000483,Klambratún,Klambratún,64.136006,-21.916078,Klambratúni,Klambratúns
+90000484,Víkurskóli,Víkurskóli,64.152653,-21.779077,Víkurskóla,Víkurskóla
+90000485,Melavegur / Goðaborgir,Goðaborgir,64.153038,-21.796901,Goðaborgum,Goðaborga
+90000486,Melavegur / Hulduborgir,Hulduborgir,64.154146,-21.793517,Hulduborgum,Hulduborga
+90000487,Melavegur / Jötnaborgir,Jötnaborgir,64.154769,-21.79142,Jötnaborgum,Jötnaborga
+90000488,Borgavegur / Melavegur,Melavegur,64.150349,-21.794269,Melavegi,Melavegar
+90000489,Lokinhamrar / Gerðhamrar,Gerðhamrar,64.13838109,-21.81626106,Gerðhömrum,Gerðhamra
+90000490,Strandvegur / Rimaflöt,Rimaflöt,64.14447513,-21.80623178,Rimaflöt,Rimaflatar
+90000491,Gagnvegur / Brekkuhús,Brekkuhús,64.138692,-21.77671,Brekkuhúsum,Brekkuhúsa
+90000492,Gagnvegur / Vallarhús,Vallarhús,64.139618,-21.781186,Vallarhúsum,Vallarhúsa
+90000493,Gagnvegur / Dalhús,Dalhús,64.139361,-21.784849,Dalhúsum,Dalhúsa
+90000494,Fjallkonuvegur / Gagnvegur,Gagnvegur,64.139109,-21.789568,Gagnvegi,Gagnvegar
+90000495,Fjallkonuvegur / Reykjafold,Reykjafold,64.13774,-21.791092,Reykjafold,Reykjafoldar
+90000496,Fjallkonuvegur / Jöklafold,Jöklafold,64.135625,-21.793327,Jöklafold,Jöklafoldar
+90000497,Fjallkonuvegur / Frostafold,Frostafold,64.134852,-21.798156,Frostafold,Frostafoldar
+90000498,Fjallkonuvegur / Hverafold,Hverafold,64.135784,-21.802317,Hverafold,Hverafoldar
+90000499,Funafold,Funafold,64.136535,-21.80702,Funafold,Funafoldar
+90000500,Borgavegur,Borgavegur,64.14961035,-21.78891257,Borgavegi,Borgavegar
+90000501,Strætóvegur við Vættaborgir,Strætóvegur við Vættaborgir,64.153016,-21.785442,Strætóvegi við Vættaborgir,Strætóvegar við Vættaborgir
+90000502,Víkurskóli,Víkurskóli,64.152762,-21.779321,Víkurskóla,Víkurskóla
+90000503,Lokinhamrar / Hesthamrar,Hesthamrar,64.13942126,-21.81817641,Hesthömrum,Hesthamra
+90000504,Gullinbrú,Gullinbrú,64.133315,-21.813624,Gullinbrú,Gullinbrúar
+90000507,Lokinhamrar / Leiðhamrar,Leiðhamrar,64.14053153,-21.81695344,Leiðhömrum,Leiðhamra
+90000508,Skógarsel / Árskógar,Árskógar,64.104707,-21.843823,Árskógum,Árskóga
+90000509,Íþróttamiðstöð ÍR,Íþróttamiðstöð ÍR,64.102635,-21.850158,Íþróttamiðstöð ÍR,Íþróttamiðstöðvar ÍR
+90000510,Skógarsel / Stúfsel,Stúfsel,64.100688,-21.857382,Stúfseli,Stúfsels
+90000511,Skógarsel / Stokkasel,Stokkasel,64.098484,-21.851918,Stokkaseli,Stokkasels
+90000512,Hólmasel,Hólmasel,64.096777,-21.843647,Hólmaseli,Hólmasels
+90000513,Jaðarsel / Holtasel,Holtasel,64.095962,-21.845364,Holtaseli,Holtasels
+90000514,Jaðarsel / Látrasel,Látrasel,64.093635,-21.841113,Látraseli,Látrasels
+90000515,Jaðarsel / Klyfjasel,Klyfjasel,64.092906,-21.836071,Klyfjaseli,Klyfjasels
+90000516,Jaðarsel / Kaldasel,Kaldasel,64.094552,-21.831356,Kaldaseli,Kaldasels
+90000517,Jaðarsel / Jakasel,Jakasel,64.09639,-21.827377,Jakaseli,Jakasels
+90000518,Egilshöll,Egilshöll,64.148161,-21.772222,Egilshöll,Egilshallar
+90000519,Víkurvegur / Borgavegur,Borgavegur,64.145277,-21.774031,Borgavegi,Borgavegar
+90000521,Jaðarsel / Seljabraut,Seljabraut,64.097864,-21.827733,Seljabraut,Seljabrautar
+90000522,Hólabrekkuskóli,Hólabrekkuskóli,64.107946,-21.81773,Hólabrekkuskóla,Hólabrekkuskóla
+90000523,Lokinhamrar / Hesthamrar,Hesthamrar,64.13932725,-21.81839296,Hesthömrum,Hesthamra
+90000524,Gerðuberg,Gerðuberg,64.104986,-21.817051,Gerðubergi,Gerðubergs
+90000525,Norðurfell / Austurberg,Austurberg,64.101994,-21.817495,Austurbergi,Austurbergs
+90000526,Fellaskóli,Fellaskóli,64.101775,-21.82293,Fellaskóla,Fellaskóla
+90000527,Biskupsgata,Biskupsgata,64.12567,-21.735857,Biskupsgötu,Biskupsgötu
+90000529,Langirimi / Hallsvegur,Hallsvegur,64.140749,-21.793928,Hallsvegi,Hallsvegar
+90000530,Langirimi / Flétturimi,Flétturimi,64.142384,-21.792345,Flétturima,Flétturima
+90000531,Miðgarður,Miðgarður,64.144566,-21.791284,Miðgarði,Miðgarðs
+90000532,Langirimi / Lyngrimi,Lyngrimi,64.146055,-21.787453,Lyngrima,Lyngrima
+90000533,Gullengi / Borgavegur,Borgavegur,64.147038,-21.783137,Borgavegi,Borgavegar
+90000534,Víkurvegur / Keldnaholt,Keldnaholt,64.139227,-21.772367,Keldnaholti,Keldnaholts
+90000535,Gullengi / Laufengi,Laufengi,64.147091,-21.779353,Laufengi,Laufengis
+90000536,Skólavegur,Skólavegur,64.149016,-21.779588,Skólavegi,Skólavegar
+90000537,Selásbraut / Þverás,Þverás,64.102823,-21.783553,Þverási,Þveráss
+90000540,Krókháls / GR,Krókháls / GR,64.125082,-21.775775,Krókhálsi / GR,Krókháls / GR
+90000541,Vínlandsleið / Húsasmiðjan,Húsasmiðjan,64.130433,-21.763806,Húsasmiðjunni,Húsasmiðjunnar
+90000542,Þúsöld,Þúsöld,64.129225,-21.765284,Þúsöld,Þúsaldar
+90000546,Gvendargeisli / Þórðarsveigur,Þórðarsveigur,64.126337,-21.744283,Þórðarsveigi,Þórðarsveigs
+90000547,Kristnibraut / Prestastígur,Prestastígur,64.126919,-21.752396,Prestastíg,Prestastígs
+90000548,Ingunnarskóli,Ingunnarskóli,64.126812,-21.757564,Ingunnarskóla,Ingunnarskóla
+90000549,Gvendargeisli / Sæmundarsel,Sæmundarsel,64.125966,-21.740398,Sæmundarseli,Sæmundarsels
+90000550,Kristnibraut / Maríubaugur,Maríubaugur,64.127102,-21.767292,Maríubaugi,Maríubaugs
+90000551,Biskupsgata,Biskupsgata,64.125667,-21.735566,Biskupsgötu,Biskupsgötu
+90000552,Vínlandsleið / Húsasmiðjan,Húsasmiðjan,64.130542,-21.763813,Húsasmiðjunni,Húsmiðjunnar
+90000553,Krókháls / GR,Krókháls / GR,64.125167,-21.775975,Krókhálsi / GR,Krókháls / GR
+90000554,Krókháls / Stuðlaháls,Stuðlaháls,64.121663,-21.791149,Stuðlahálsi,Stuðlaháls
+90000555,Krókháls / Hálsabraut,Hálsabraut,64.121601,-21.795694,Hálsabraut,Hálsabrautar
+90000556,Grensásvegur / Skálagerði,Skálagerði,64.126062,-21.878182,Skálagerði,Skálagerðis
+90000557,Grensásvegur / Breiðagerði,Breiðagerði,64.12604,-21.87778,Breiðagerði,Breiðagerðis
+90000558,Stórhöfði / Tengivegur,Tengivegur,64.129084,-21.820368,Tengivegi,Tengivegar
+90000559,Stórhöfði / Tengivegur,Tengivegur,64.129017,-21.819683,Tengivegi,Tengivegar
+90000600,Vesturlandsvegur / Hálsar,Hálsar,64.124042,-21.802883,Hálsum,Hálsa
+90000601,Bauhaus,Bauhaus,64.138647,-21.756366,Bauhaus,Bauhaus
+90000609,Nauthólsvegur,Nauthólsvegur,64.130369,-21.930281,Nauthólsvegi,Nauthólsvegar
+90000627,Dalbraut,Dalbraut,64.150638,-21.874601,Dalbraut,Dalbrautar
+90000628,Hrafnista,Hrafnista,64.148988,-21.867222,Hrafnistu,Hrafnistu
+90000629,Kleppsvegur / Hjallavegur,Hjallavegur,64.145761,-21.858683,Hjallavegi,Hjallavegar
+90000630,Sæbraut / Kirkjusandur,Kirkjusandur,64.149555,-21.888833,Kirkjusandi,Kirkjusands
+90000631,Sæbraut / Kirkjusandur,Kirkjusandur,64.149596,-21.889515,Kirkjusandi,Kirkjusands
+90000632,Borgarholtsskóli,Borgarholtsskóli,64.150363,-21.784939,Borgarholtsskóla,Borgarholtsskóla
+90000633,Borgarholtsskóli,Borgarholtsskóli,64.150337,-21.784784,Borgarholtsskóla,Borgarholtsskóla
+90000634,Elliðabraut / Árvað,Árvað,64.100353,-21.778268,Árvaði,Árvaðs
+90000635,Melavegur / Dvergaborgir,Dvergaborgir,64.152003,-21.798608,Dvergaborgum,Dvergaborga
+90000636,Melavegur / Dvergaborgir,Dvergaborgir,64.151963,-21.798828,Dvergaborgum,Dvergaborga
+90000644,Bauhaus,Bauhaus,64.138739,-21.756274,Bauhaus,Bauhaus
+90000645,Vesturlandsvegur / Viðarhöfði,Viðarhöfði,64.124467,-21.798732,Viðarhöfða,Viðarhöfða
+90000647,Korputorg,Korputorg,64.14339,-21.761766,Korputorgi,Korputorgs
+90000661,Borgavegur / Gullengi,Gullengi,64.14578083,-21.78308932,Gullengi,Gullengis
+90000702,Esjurætur,Esjurætur,64.208419,-21.712028,Esjurótum,Esjuróta
+90000703,Klébergsskóli,Klébergsskóli,64.237889,-21.824185,Klébergsskóla,Klébergsskóla
+90000704,Vallargrund / Esjugrund,Esjugrund,64.240824,-21.828048,Esjugrund,Esjugrundar
+90000705,Esjuskáli,Esjuskáli,64.241862,-21.829999,Esjuskála,Esjuskála
+90000707,Vallargrund / Esjugrund,Esjugrund,64.240629,-21.827924,Esjugrund,Esjugrundar
+90000708,Klébergsskóli,Klébergsskóli,64.237805,-21.824264,Klébergsskóla,Klébergsskóla
+90000711,Esjuskáli,Esjuskáli,64.241735,-21.82977,Esjuskála,Esjuskála
+90000717,Vesturhólar / Höfðabakki,Höfðabakki,64.110748,-21.819954,Höfðabakka,Höfðabakka
+90000718,Vesturhólar / Fýlshólar,Fýlshólar,64.11162,-21.817805,Fýlshólum,Fýlshóla
+90000719,Vesturhólar / Hrafnhólar,Hrafnhólar,64.110622,-21.815554,Hrafnhólum,Hrafnhóla
+90000720,Norðurhólar / Smyrilshólar,Smyrilshólar,64.11019,-21.809423,Smyrilshólum,Smyrilshóla
+90000721,Norðurhólar / Stelkshólar,Stelkshólar,64.10909,-21.804492,Stelkshólum,Stelkshóla
+90000722,Suðurhólar / Þrastarhólar,Þrastarhólar,64.107807,-21.808807,Þrastarhólum,Þrastarhóla
+90000723,Suðurhólar / Austurberg,Austurberg,64.107845,-21.81604,Austurbergi,Austurbergs
+90000724,Seljabraut / Seljaskógar,Seljaskógar,64.103092,-21.835326,Seljaskógum,Seljaskóga
+90000725,Seljabraut / Engjasel,Engjasel,64.101909,-21.833665,Engjaseli,Engjasels
+90000726,Seljabraut,Seljabraut,64.099638,-21.830507,Seljabraut,Seljabrautar
+90000727,Seljabraut / Flúðasel,Flúðasel,64.098228,-21.828427,Flúðaseli,Flúðasels
+90000728,Rofabær / Norðurás,Norðurás,64.114719,-21.787037,Norðurási,Norðuráss
+90000729,Rofabær / Norðurás,Norðurás,64.114922,-21.787623,Norðurási,Norðuráss
+90000730,Reynisvatnsvegur,Reynisvatnsvegur,64.130045,-21.747867,Reynisvatnsvegi,Reynisvatnsvegar
+90000731,Hálsabraut,Hálsabraut,64.119654,-21.797871,Hálsabraut,Hálsabrautar
+90000732,Bæjarbraut,Bæjarbraut,64.117652,-21.799352,Bæjarbraut,Bæjarbrautar
+90000733,Bæjarbraut,Bæjarbraut,64.117725,-21.799091,Bæjarbraut,Bæjarbrautar
+90000734,Hálsabraut,Hálsabraut,64.119641,-21.797586,Hálsabraut,Hálsabrautar
+90000735,Reynisvatnsvegur,Reynisvatnsvegur,64.130147,-21.747973,Reynisvatnsvegi,Reynisvatnsvegar
+90000736,Lokinhamrar / Bláhamrar,Bláhamrar,64.13694215,-21.8103788,Bláhömrum,Bláhamra
+90000737,Víkurvegur / Borgavegur,Borgavegur,64.144149,-21.774937,Borgavegi,Borgavegar
+90000738,Hallsvegur / Þvervegur,Þvervegur,64.140436,-21.779875,Þvervegi,Þvervegar
+90000739,Hallsvegur / Þvervegur,Þvervegur,64.140501,-21.780348,Þvervegi,Þvervegar
+90000740,Gagnvegur / Völundarhús,Völundarhús,64.138161,-21.773972,Völundarhúsum,Völundarhúsa
+90000741,Gagnvegur / Völundarhús,Völundarhús,64.138281,-21.77421,Völundarthúsum,Völundarhúsa
+90000742,Vínlandsleið / Guðríðarstígur,Guðríðarstígur,64.128723,-21.771012,Guðríðarstíg,Guðríðarstígs
+90000743,Vínlandsleið / Guðríðarstígur,Guðríðarstígur,64.128686,-21.770842,Guðríðarstíg,Guðríðarstígs
+90000744,Straumur / Nethylur,Nethylur,64.122195,-21.815114,Nethyl,Nethyls
+90000745,Hamravík / Mosavegur,Mosavegur,64.151333,-21.775997,Mosavegi,Mosavegar
+90000746,Hamravík / Mosavegur,Mosavegur,64.151452,-21.775901,Mosavegi,Mosavegar
+90000747,Esjumelar,Esjumelar,64.194126,-21.697398,Esjumelum,Esjumela
+90000748,Esjumelar,Esjumelar,64.194212,-21.697271,Esjumelum,Esjumela
+90000749,Norðlingabraut / Helluvað,Helluvað,64.102703,-21.766723,Helluvaði,Helluvaðs
+90000750,Norðlingabraut / Ferjuvað,Ferjuvað,64.103901,-21.771639,Ferjuvaði,Ferjuvaðs
+90000751,Norðlingabraut / Bjallavað,Bjallavað,64.102903,-21.776744,Bjallavaði,Bjallavaðs
+90000752,Norðlingabraut / Árvað,Árvað,64.101478,-21.778261,Árvaði,Árvaðs
+90000753,Mímisbrunnur / Úlfarsbraut,Úlfarsbraut,64.134738,-21.745795,Úlfarsbraut,Úlfarsbrautar
+90000754,Borgavegur / Gullengi,Gullengi,64.146047,-21.783243,Gullengi,Gullengis
+90000755,Bitruháls,Bitruháls,64.121937,-21.80651,Bitruhálsi,Bitruháls
+90000756,Grjótháls / Bitruháls,Bitruháls,64.123575,-21.803081,Bitruhálsi,Bitruháls
+90000757,Hálsabraut / Grjótháls,Grjótháls,64.123163,-21.797097,Grjóthálsi,Grjótháls
+90000758,Hálsabraut / Grjótháls,Grjótháls,64.123374,-21.796756,Grjóthálsi,Grjótháls
+90000759,Grjótháls / Bitruháls,Bitruháls,64.123692,-21.803101,Bitruhálsi,Bitruháls
+90000760,Bitruháls,Bitruháls,64.12195,-21.806758,Bitruhálsi,Bitruháls
+90000761,Jónsgeisli / Reynisvatnsvegur,Reynisvatnsvegur,64.127761,-21.748444,Reynisvatnsvegi,Reynisvatnsvegar
+90000762,Jónsgeisli / Kristnibraut,Kristnibraut,64.126533,-21.748187,Kristnibraut,Kristnibrautar
+90000763,Lambhagavegur / Mímisbrunnur,Mímisbrunnur,64.134029,-21.750167,Mímisbrunni,Mímisbrunns
+90000764,Reynisvatn,Reynisvatn,64.12640656,-21.73327655,Reynisvatni,Reynisvatns
+90000765,Reynisvatnsvegur / Katrínarlind,Katrínarlind,64.12903083,-21.74025627,Katrínarlind,Katrínarlindar
+90000766,Reynisvatnsvegur / Katrínarlind,Katrínarlind,64.12902966,-21.7403178,Katrínarlind,Katrínarlindar
+90000767,Reynisvatn,Reynisvatn,64.12650557,-21.73373841,Reynisvatni,Reynisvatns
+90000768,Gufunesbær,Gufunesbær,64.14418737,-21.80949248,Gufunesbæ,Gufunesbæjar
+90000769,Egilshöll,Egilshöll,64.1459458,-21.77232849,Egilshöll,Egilshallar
+90000770,Strandvegur / Rimaflöt,Rimaflöt,64.14471767,-21.80576295,Rimaflöt,Rimaflatar
+90000771,Vesturlandsvegur / Úlfarsá,Úlfarsá,64.13531083,-21.76034533,Úlfarsá,Úlfarsár
+90000772,Vesturlandsvegur / Úlfarsá,Úlfarsá,64.13558703,-21.76092795,Úlfarsá,Úlfarsár
+90000773,Korpúlfsstaðavegur / Barðastaðir,Barðastaðir,64.155669,-21.751715,Barðastöðum,Barðastaða
+90000774,Korpúlfsstaðavegur / Barðastaðir,Barðastaðir,64.15578,-21.751727,Barðastöðum,Barðastaða
+90009980,Snúningur Fellaskóli,Snúningur Fellaskóli,64.101963,-21.82443,Snúningi Fellaskóla,Snúnings Fellaskóla
