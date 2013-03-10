@@ -10,11 +10,8 @@ parseCsv = (csv, callback) ->
             [stopId, longName, shortName, latitude, longitude] = row
             stops[stopId] = { stopId, longName, shortName, latitude, longitude }
         )
-        .on('error', (err) ->
-            callback err
-        )
-        .on 'end', (count) ->
-            callback null, stops
+        .on('error', (err) -> callback err)
+        .on('end', (count) -> callback null, stops)
 
 @importCsv = (string, callback) ->
     parseCsv csv().from(string), callback

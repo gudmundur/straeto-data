@@ -30,11 +30,8 @@ parseCsv = (csv, callback) ->
 
                 data.sections.push section
     )
-    .on('error', (err) ->
-        callback err
-    )
-    .on 'end', (count) ->
-        callback null, data
+    .on('error', (err) -> callback err)
+    .on('end', (count) -> callback null, data)
 
 @importCsv = (string, callback) ->
     parseCsv csv().from(string), callback

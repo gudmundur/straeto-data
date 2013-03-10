@@ -14,11 +14,8 @@ parseCsv = (csv, callback) ->
                 color: color
                 directions: (_ directions).map splitDirections
         )
-        .on('error', (err) ->
-            callback err
-        )
-        .on 'end', (count) ->
-            callback null, routes
+        .on('error', (err) -> callback err)
+        .on('end', (count) -> callback null, routes)
 
 @importCsv = (string, callback) ->
     parseCsv csv().from(string), callback
