@@ -1,4 +1,4 @@
-importer = require '../lib/importer'
+schedules = require '../lib/schedules'
 _        = require 'underscore'
 fs       = require 'fs'
 
@@ -21,9 +21,9 @@ From (time),To (time),Every (minutes),Days,Hlemmur,Barónsstígur,Frakkastígur,
 nullOrNumber = (x) -> x is null or (_ x).isNumber()
 
 
-describe 'Timetable Importer', ->
+describe 'Schedule Importer', ->
     it 'processes stops', (done) ->
-        importer.importCsv stops, (err, data) ->
+        schedules.importCsv stops, (err, data) ->
             expect(err).to.be.null
             expect(data).to.be.an.object
             expect(data.stops).to.have.length 2
@@ -31,7 +31,7 @@ describe 'Timetable Importer', ->
             done()
 
     it 'processes single sections', (done) ->
-        importer.importCsv single, (err, data) ->
+        schedules.importCsv single, (err, data) ->
             expect(data.sections).to.have.length 1
             section = data.sections[0]
 
@@ -40,7 +40,7 @@ describe 'Timetable Importer', ->
             done()
 
     it 'processes range sections', (done) ->
-        importer.importCsv range, (err, data) ->
+        schedules.importCsv range, (err, data) ->
             expect(data.sections).to.have.length 1
             section = data.sections[0]
             expect(section.type).to.be.equal 'range'
@@ -50,7 +50,7 @@ describe 'Timetable Importer', ->
     it 'processes multiple sections', (done) ->
         stream = fs.createReadStream "schedules/1-A-Klukkuvellir.csv"
 
-        importer.importCsvStream stream, (err, data) ->
+        schedules.importCsvStream stream, (err, data) ->
             expect(err).to.be.null
             expect(data.stops).to.have.length.at.least 1
             expect(data.sections).to.have.length.at.least 2
@@ -59,7 +59,7 @@ describe 'Timetable Importer', ->
 
     describe 'converts offsets', ->
         it 'with nulls', (done) ->
-            importer.importCsv single, (err, data) ->
+            schedules.importCsv single, (err, data) ->
                 section = data.sections[0]
                 offsets = section.offsets
 
@@ -69,7 +69,7 @@ describe 'Timetable Importer', ->
                 done()
 
         it 'without nulls', (done) ->
-            importer.importCsv range, (err, data) ->
+            schedules.importCsv range, (err, data) ->
                 section = data.sections[0]
                 offsets = section.offsets
 

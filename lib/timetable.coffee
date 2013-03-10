@@ -2,7 +2,7 @@ _ = require 'underscore'
 Hash = require 'hashish'
 
 converter = require './converter'
-importer = require './importer'
+schedules = require './schedules'
 
 { merge } = require './utils'
 
@@ -22,7 +22,7 @@ expandSection = (stops, section, callback) ->
     trips: trips
 
 module.exports = (stream, callback) ->
-    importer.importCsvStream stream, (err, data) ->
+    schedules.importCsvStream stream, (err, data) ->
         stops = data.stops
         sections = (_ data.sections).map (s) -> expandSection stops, s
         byDays = ((_ sections).groupBy (s) -> s.days)
