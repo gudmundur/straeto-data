@@ -4,10 +4,11 @@ Hash = require 'hashish'
 converter = require './converter'
 importer = require './importer'
 
+{ merge } = require './utils'
+
 unusedStop = ([s, t]) -> t is null
 pairStopTime = (stops, times) -> _.zip stops, times
 toTime = (t) -> if t is null then null else t.format 'HH:mm'
-merge = (arrays) -> [].concat.apply [], arrays
 
 expandSection = (stops, section, callback) ->
     expanded = converter.expandRange section

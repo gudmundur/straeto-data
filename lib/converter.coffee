@@ -1,17 +1,12 @@
 _       = require 'underscore'
 moment  = require 'moment'
 
-nullOr = (x, fn) -> if x is null then null else fn x
+{ nullOr, prefixSum } = require './utils'
 
 dayAt = (day, offset) -> day.clone().startOf('day').hours(offset.hours()).minutes(offset.minutes())
 todayAt = (time) -> dayAt moment(), (moment time, "H:m:s")
 timePlusMinutes = (d, m) -> nullOr m, -> d.clone().add('m', m)
 offsetTimes = (d, offsets) -> (_ offsets).map (m) -> timePlusMinutes d, m
-
-prefixSum = (l) ->
-    t = 0
-    (_ l).map (x) -> nullOr x, -> t = t + x
-
 
 calculateTripStarts = (startTime, endTime, every) ->
     st = todayAt startTime
