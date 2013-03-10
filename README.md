@@ -39,7 +39,7 @@ If you would like to contribute data that you have, either fork this repository 
 
 The `allStops.csv` file was provided by Strætó bs. and the license of which is unclear, but could be published online.
 
-The remaining data is dual licenced under [CC BY-SA 3.0][cc-by-sa] and [ODbl 1.0][odbl].
+The remaining data is dual licensed under [CC BY-SA 3.0][cc-by-sa] and [ODbl 1.0][odbl].
 
 ![CC BY-SA 3.0](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)
 
