@@ -35,3 +35,5 @@ describe 'Route Importer', ->
             expect(route.color).to.be.equal 'blue'
             expect(route.directions).to.have.length 1
             expect(route.directions[0]).to.have.length 3
+
+            done()
