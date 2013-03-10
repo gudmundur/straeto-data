@@ -1,16 +1,14 @@
 fs = require 'fs'
+path = require 'path'
+
 _ = require 'underscore'
+glob = require 'glob'
 
-converter = require './lib/converter'
-importer = require './lib/importer'
+timetable = require './lib/timetable'
 
-stream = fs.createReadStream 'schedules/23-A-Asgardur.csv'
-importer.importCsvStream stream, (err, data) ->
-    timetable = (_ data.sections)
-                    .chain()
-                    .map((s) -> converter.expandRange s)
-                    .flatten(true)
-                    .value()
+glob 'schedules/**.csv', (err, files) ->
+    (_ files).each (file) ->
+        stream = fs.createReadStream file
 
-    console.log timetable.length
-    #console.log _.zip data.stops, timetable[0]
+        timetable stream, (err, data) ->
+            fs.writeFileSync "timetables/#{path.basename file, '.csv'}.json", JSON.stringify data
