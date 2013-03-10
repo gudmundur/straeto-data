@@ -1,3 +1,5 @@
+fs = require 'fs'
+
 csv = require 'csv'
 _ = require 'underscore'
 
@@ -22,3 +24,7 @@ parseCsv = (csv, callback) ->
 
 @importCsvStream = (stream, callback) ->
     parseCsv csv().from.stream(stream), callback
+
+@importDefault = (callback) ->
+    stream = fs.createReadStream "#{__dirname}/../routes/routes.csv"
+    @importCsvStream stream, callback

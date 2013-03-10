@@ -37,3 +37,9 @@ describe 'Route Importer', ->
             expect(route.directions[0]).to.have.length 3
 
             done()
+
+    it 'defaults', (done) ->
+        routes.importDefault (err, routes) ->
+            expect(routes).to.be.an.array
+            expect(routes).to.have.length 26
+            done()
