@@ -1,6 +1,6 @@
 {
   "name": "straeto-data",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Data files for the busses in and around Reykjavik, Iceland",
   "author": "Guðmundur Bjarni Ólafsson <gudmundur.bjarni@gmail.com>",
 
@@ -22,6 +22,7 @@
     "csv": "0.2.6",
     "moment": "1.7.2",
     "underscore": "1.4.3",
+    "async": "~0.2.6",
     "hashish": "0.0.4",
     "glob": "3.1.21",
     "mocha": "1.8.1",
