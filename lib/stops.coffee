@@ -2,14 +2,14 @@ fs = require 'fs'
 csv = require 'csv'
 
 parseCsv = (csv, callback) ->
-    stops = {}
+    stops = []
 
     csv
         .on('record', (row, index) ->
             return if index is 0
 
             [stopId, longName, shortName, latitude, longitude] = row
-            stops[stopId] =
+            stops.push
                 stopId: stopId
                 longName: longName
                 shortName: shortName

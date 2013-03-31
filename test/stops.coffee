@@ -1,3 +1,4 @@
+_ = require 'underscore'
 stops = require '../lib/stops'
 
 describe 'Stop Importer', ->
@@ -5,7 +6,7 @@ describe 'Stop Importer', ->
         stops.importDefault (err, stops) ->
             expect(stops).to.be.an.object
 
-            stop = stops['90000270']
+            stop = (_ stops).find (s) -> s.stopId is '90000270'
 
             expect(stop).to.deep.equal
                 stopId: '90000270'
