@@ -6,7 +6,8 @@ parseCsv = (csv, callback) ->
 
     csv
         .on('record', (row, index) ->
-            return if index is 0
+            return if index is 0 and row[0] is 'stopId'
+
 
             [stopId, longName, shortName, latitude, longitude] = row
             stops.push
