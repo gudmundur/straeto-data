@@ -930,6 +930,10 @@ stopId,long name,short name,latitude,longitude
 90000707,Vallargrund / Esjugrund,Esjugrund,64.2406290002557,-21.8279240000436
 90000708,Klébergsskóli,Klébergsskóli,64.2378050001923,-21.8242640000686
 90000711,Esjuskáli,Esjuskáli,64.2417350004022,-21.8297699996565
+90000712,Harpa,Harpa,64.14950,-21.93029,Austur
+90000713,Harpa,Harpa,64.14947,-21.93220,Vestur
+90000775,Sæbraut / Frakkastígur,Frakkastígur,64.14710,-21.92162,Vestur
+90000776,Sæbraut / Vitastígur,Vitastígur,64.14645,-21.92034,Austur
 90000717,Vesturhólar / Höfðabakki,Höfðabakki,64.1107480003364,-21.8199540007184
 90000718,Vesturhólar / Fýlshólar,Fýlshólar,64.1116200004339,-21.8178050006247
 90000719,Vesturhólar / Hrafnhólar,Hrafnhólar,64.1106219999652,-21.815554000157
