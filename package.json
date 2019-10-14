@@ -20,7 +20,7 @@
   "devDependencies": {
     "coffee-script": "1.4.0",
     "csv": "0.2.6",
-    "moment": "1.7.2",
+    "moment": "2.24.0",
     "underscore": "1.4.3",
     "async": "~0.2.6",
     "hashish": "0.0.4",
